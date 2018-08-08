@@ -22,7 +22,7 @@ Interleaved Group Convolutions for Deep Neural Networks [IGCV](Interleaved Group
 
 IGCV2: Interleaved Structured Sparse Convolutional Neural Networks [IGCV2](https://arxiv.org/pdf/1804.06202.pdf)
 
- IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks [IGCV3](https://arxiv.org/abs/1806.00178)
+IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks [IGCV3](https://arxiv.org/abs/1806.00178)
 
 ### Others
 
