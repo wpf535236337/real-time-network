@@ -18,7 +18,7 @@ ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design [Shuff
 
 ### Microsoft Research
 
-Interleaved Group Convolutions for Deep Neural Networks [IGCV](Interleaved Group Convolutions for Deep Neural Networks)
+Interleaved Group Convolutions for Deep Neural Networks [IGCV](https://arxiv.org/abs/1707.02725)
 
 IGCV2: Interleaved Structured Sparse Convolutional Neural Networks [IGCV2](https://arxiv.org/pdf/1804.06202.pdf)
 
