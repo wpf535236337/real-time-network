@@ -1,4 +1,4 @@
-## real-time network for mobile devices
+## Real-time network  for mobile devices
 
 ### Google
 
