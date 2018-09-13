@@ -39,3 +39,14 @@ IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Network
 5. ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation [ESPNet](https://arxiv.org/abs/1803.06815)
 6. BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation [BiSeNet](https://arxiv.org/abs/1808.00897)
 7. [A Comparative Study of Real-time Semantic Segmentation for Autonomous Driving](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Siam_A_Comparative_Study_CVPR_2018_paper.pdf)
+
+### Some useful links
+
+1. [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
+2. [awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
+
+### Some researcher
+
+1. [SongHan](https://stanford.edu/~songhan/)
+2. [JingdongWang](https://www.microsoft.com/en-us/research/people/jingdw/#!publications)
+3. 
