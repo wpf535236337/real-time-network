@@ -24,6 +24,8 @@ IGCV2: Interleaved Structured Sparse Convolutional Neural Networks [IGCV2](https
 
 IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks [IGCV3](https://arxiv.org/abs/1806.00178)
 
+[Accelerating Deep Neural Networks with Spatial Bottleneck Modules ](https://arxiv.org/pdf/1809.02601.pdf)
+
 ### Others
 
  CondenseNet: An Efficient DenseNet using Learned Group Convolutions [CondenseNet](https://arxiv.org/abs/1711.09224)
