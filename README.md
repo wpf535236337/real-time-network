@@ -36,3 +36,4 @@ IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Network
 4. ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation [ERFNet](http://www.robesafe.es/personal/eduardo.romera/pdfs/Romera17tits.pdf)
 5. ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation [ESPNet](https://arxiv.org/abs/1803.06815)
 6. BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation [BiSeNet](https://arxiv.org/abs/1808.00897)
+7. [A Comparative Study of Real-time Semantic Segmentation for Autonomous Driving](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Siam_A_Comparative_Study_CVPR_2018_paper.pdf)
