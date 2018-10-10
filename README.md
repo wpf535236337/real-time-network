@@ -40,6 +40,8 @@ IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Network
 6. BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation [BiSeNet](https://arxiv.org/abs/1808.00897)
 7. [A Comparative Study of Real-time Semantic Segmentation for Autonomous Driving](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Siam_A_Comparative_Study_CVPR_2018_paper.pdf)
 8. Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation[EDANet](https://github.com/shaoyuanlo/EDANet)
+9. Light-Weight RefineNet for Real-Time Semantic Segmentation[Light-Weight RefineNet](https://github.com/drsleep/light-weight-refinenet)
+10. [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](https://github.com/tensorflow/models/tree/master/research/deeplab)
 
 ### Some useful links
 
