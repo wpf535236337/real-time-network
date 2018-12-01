@@ -8,13 +8,13 @@ MnasNet: Platform-Aware Neural Architecture Search for Mobile [MnasNet](https://
 
 MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications [MobileNets](https://arxiv.org/abs/1704.04861)
 
-MobileNetV2: Inverted Residuals and Linear Bottlenecks [MobileNetV2](https://arxiv.org/pdf/1801.04381.pdf)
+MobileNetV2: Inverted Residuals and Linear Bottlenecks [MobileNetV2](https://arxiv.org/pdf/1801.04381.pdf) [MobileNetV2-pytorch)](https://github.com/Randl/MobileNetV2-pytorch)
 
 ### Megvill
 
 ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices [ShuffleNet](https://arxiv.org/abs/1707.01083)
 
-ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design [ShuffleNet V2](https://arxiv.org/abs/1807.11164)
+ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design [ShuffleNet V2]( https://arxiv.org/abs/1807.11164)   [Shufflenet-v2-Pytorch](https://github.com/ericsun99/Shufflenet-v2-Pytorch)
 
 ### Microsoft Research
 
@@ -42,6 +42,8 @@ IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Network
 8. Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation[EDANet](https://github.com/shaoyuanlo/EDANet)
 9. Light-Weight RefineNet for Real-Time Semantic Segmentation[Light-Weight RefineNet](https://github.com/drsleep/light-weight-refinenet)
 10. [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](https://github.com/tensorflow/models/tree/master/research/deeplab)
+11. CGNet: A Light-weight Context Guided Network for Semantic Segmentation [arxiv2018](https://arxiv.org/abs/1811.08201) [code](https://github.com/wutianyiRosun/CGNet)
+12. ShelfNet for Real-time Semantic Segmentation [arxiv2018](https://arxiv.org/pdf/1811.11254v1.pdf) [code](https://github.com/juntang-zhuang/ShelfNet)
 
 ### Some useful links
 
@@ -52,4 +54,4 @@ IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Network
 
 1. [SongHan](https://stanford.edu/~songhan/)
 2. [JingdongWang](https://www.microsoft.com/en-us/research/people/jingdw/#!publications)
-3. 
+
