@@ -30,6 +30,8 @@ IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Network
 
  CondenseNet: An Efficient DenseNet using Learned Group Convolutions [CondenseNet](https://arxiv.org/abs/1711.09224)
 
+ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptation[ChamNet](https://arxiv.org/pdf/1812.08934.pdf)
+
 ### Especially for semantic segmentation
 
 1. ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation [ENet](https://arxiv.org/abs/1606.02147)
@@ -44,6 +46,8 @@ IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Network
 10. [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](https://github.com/tensorflow/models/tree/master/research/deeplab)
 11. CGNet: A Light-weight Context Guided Network for Semantic Segmentation [arxiv2018](https://arxiv.org/abs/1811.08201) [code](https://github.com/wutianyiRosun/CGNet)
 12. ShelfNet for Real-time Semantic Segmentation [arxiv2018](https://arxiv.org/pdf/1811.11254v1.pdf) [code](https://github.com/juntang-zhuang/ShelfNet)
+13. Concentrated-Comprehensive Convolutions for lightweight semantic segmentation[arxiv2018](https://arxiv.org/pdf/1812.04920.pdf)
+14. ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network [arxiv2018](https://arxiv.org/pdf/1811.11431.pdf) [code](https://github.com/sacmehta/ESPNetv2)
 
 ### Some useful links
 
