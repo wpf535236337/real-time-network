@@ -48,6 +48,7 @@ ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptatio
 12. ShelfNet for Real-time Semantic Segmentation [arxiv2018](https://arxiv.org/pdf/1811.11254v1.pdf) [code](https://github.com/juntang-zhuang/ShelfNet)
 13. Concentrated-Comprehensive Convolutions for lightweight semantic segmentation[arxiv2018](https://arxiv.org/pdf/1812.04920.pdf)
 14. ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network [arxiv2018](https://arxiv.org/pdf/1811.11431.pdf) [code](https://github.com/sacmehta/ESPNetv2)
+15. Fast-SCNN: Fast Semantic Segmentation Network [arxiv2019](file:///Users/sf/Desktop/1902.04502.pdf)
 
 ### Some useful links
 
