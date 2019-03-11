@@ -48,7 +48,7 @@ ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptatio
 12. ShelfNet for Real-time Semantic Segmentation [arxiv2018](https://arxiv.org/pdf/1811.11254v1.pdf) [code](https://github.com/juntang-zhuang/ShelfNet)
 13. Concentrated-Comprehensive Convolutions for lightweight semantic segmentation[arxiv2018](https://arxiv.org/pdf/1812.04920.pdf)
 14. ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network [arxiv2018](https://arxiv.org/pdf/1811.11431.pdf) [code](https://github.com/sacmehta/ESPNetv2)
-15. Fast-SCNN: Fast Semantic Segmentation Network [arxiv2019](file:///Users/sf/Desktop/1902.04502.pdf)
+15. Fast-SCNN: Fast Semantic Segmentation Network  [arxiv2019](https://arxiv.org/pdf/1902.04502.pdf)
 16. An efficient solution for semantic segmentation: ShuffleNet V2 with atrous separable convolutions [arxiv2019](https://arxiv.org/pdf/1902.07476.pdf)
 17. Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation [cvpr2019](https://arxiv.org/pdf/1903.02120.pdf)
 18. DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation (**Unreleased**)[cvpr2019Megvii ]()
