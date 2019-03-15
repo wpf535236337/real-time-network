@@ -56,6 +56,7 @@ ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptatio
 
 1. [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
 2. [awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
+3. [Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers)
 
 ### Some researcher
 
