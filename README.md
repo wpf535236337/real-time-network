@@ -52,11 +52,17 @@ ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptatio
 16. An efficient solution for semantic segmentation: ShuffleNet V2 with atrous separable convolutions [arxiv2019](https://arxiv.org/pdf/1902.07476.pdf)
 17. Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation [cvpr2019](https://arxiv.org/pdf/1903.02120.pdf)
 18. DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation (**Unreleased**)[cvpr2019Megvii ]()
+
+19.Real time backbone for semantic segmentation [arxiv2019](https://arxiv.org/pdf/1903.06922.pdf)
+
+20.Residual Pyramid Learning for Single-Shot Semantic Segmentation [arxiv2019](https://128.84.21.199/pdf/1903.09746.pdf)
+
 ### Some useful links
 
 1. [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
 2. [awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
 3. [Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers)
+4. [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
 
 ### Some researcher
 
