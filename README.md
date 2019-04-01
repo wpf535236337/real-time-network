@@ -57,6 +57,8 @@ ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptatio
 
 20.Residual Pyramid Learning for Single-Shot Semantic Segmentation [arxiv2019](https://128.84.21.199/pdf/1903.09746.pdf)
 
+21.Knowledge Adaptation for Efficient Semantic Segmentation [cvpr2019](https://arxiv.org/pdf/1903.04688.pdf)
+
 ### Some useful links
 
 1. [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
