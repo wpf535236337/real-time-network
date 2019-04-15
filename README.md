@@ -32,6 +32,8 @@ IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Network
 
 ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptation[ChamNet](https://arxiv.org/pdf/1812.08934.pdf)
 
+ANTNets: Mobile Convolutional Neural Networks for Resource Efficient Image Classification[arxiv2019](https://arxiv.org/pdf/1904.03775.pdf)
+
 ### Especially for semantic segmentation
 
 1. ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation [ENet](https://arxiv.org/abs/1606.02147)
