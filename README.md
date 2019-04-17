@@ -53,7 +53,7 @@ ANTNets: Mobile Convolutional Neural Networks for Resource Efficient Image Class
 15. Fast-SCNN: Fast Semantic Segmentation Network  [arxiv2019](https://arxiv.org/pdf/1902.04502.pdf)
 16. An efficient solution for semantic segmentation: ShuffleNet V2 with atrous separable convolutions [arxiv2019](https://arxiv.org/pdf/1902.07476.pdf)
 17. Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation [cvpr2019](https://arxiv.org/pdf/1903.02120.pdf)
-18. DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation (**Unreleased**)[cvpr2019Megvii ]()
+18. DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation [cvpr2019Megvii ](https://arxiv.org/pdf/1904.02216.pdf)
 
 19.Real time backbone for semantic segmentation [arxiv2019](https://arxiv.org/pdf/1903.06922.pdf)
 
