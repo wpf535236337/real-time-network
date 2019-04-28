@@ -60,21 +60,40 @@
 16. An efficient solution for semantic segmentation: ShuffleNet V2 with atrous separable convolutions [arxiv2019](https://arxiv.org/pdf/1902.07476.pdf)
 17. Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation [cvpr2019](https://arxiv.org/pdf/1903.02120.pdf)
 18. DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation [cvpr2019Megvii ](https://arxiv.org/pdf/1904.02216.pdf)
-
 19. Real time backbone for semantic segmentation [arxiv2019](https://arxiv.org/pdf/1903.06922.pdf)
-
 20. Residual Pyramid Learning for Single-Shot Semantic Segmentation [arxiv2019](https://128.84.21.199/pdf/1903.09746.pdf)
-
 21. Knowledge Adaptation for Efficient Semantic Segmentation [cvpr2019](https://arxiv.org/pdf/1903.04688.pdf)
-
 22. In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images[cvpr2019](https://arxiv.org/pdf/1903.08469.pdf) [code](https://github.com/orsic/swiftnet)
+23. Towards Real-Time Automatic Portrait Matting on Mobile Devices [arxiv2019](https://arxiv.org/pdf/1904.03816.pdf) [code](https://github.com/hyperconnect/MMNet)
 
 ### Some useful links
 
 1. [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
 2. [awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
 3. [Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers)
-4. [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
+4. [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)   
+
+###  Some blogs
+
+1. [Real-time Portrait Segmentation on Smartphones](https://blog.prismalabs.ai/real-time-portrait-segmentation-on-smartphones-39c84f1b9e66)
+
+2. [Mobile Real-time Video Segmentation](https://ai.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
+3. [Real-Time deep learning in mobile application](https://medium.com/vitalify-asia/real-time-deep-learning-in-mobile-application-25cf601a8976)
+4. [QNNPACK: Open source library for optimized mobile deep learning](https://code.fb.com/ml-applications/qnnpack/)
+5. [第十七章 模型压缩及移动端部署](https://github.com/scutan90/DeepLearning-500-questions/blob/master/ch17_%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9%E3%80%81%E5%8A%A0%E9%80%9F%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%83%A8%E7%BD%B2/%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A0_%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9%E3%80%81%E5%8A%A0%E9%80%9F%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%83%A8%E7%BD%B2.md)
+
+###  Some  projects
+
+1. [Real-Time Video Segmentation on Mobile Devices](https://github.com/tantara/JejuNet)
+2. [LightNet++: Boosted Light-weighted Networks for Real-time Semantic Segmentation](https://github.com/ansleliu/LightNetPlusPlus)
+3. 
+
+### Some inference framework
+
+1. [TensorFlow Lite](https://www.tensorflow.org/lite)
+2. [caffe2](https://caffe2.ai/)
+3. [Tencent/ncnn](https://github.com/Tencent/ncnn)
+4. [XiaoMi/mace](https://github.com/XiaoMi/mace)
 
 ### Some researcher
 
