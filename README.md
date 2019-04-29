@@ -65,6 +65,8 @@
 21. Knowledge Adaptation for Efficient Semantic Segmentation [cvpr2019](https://arxiv.org/pdf/1903.04688.pdf)
 22. In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images[cvpr2019](https://arxiv.org/pdf/1903.08469.pdf) [code](https://github.com/orsic/swiftnet)
 23. Towards Real-Time Automatic Portrait Matting on Mobile Devices [arxiv2019](https://arxiv.org/pdf/1904.03816.pdf) [code](https://github.com/hyperconnect/MMNet)
+24. PortraitNet: Real-time Portrait Segmentation Network for Mobile Device [Computers & Graphics 2019](http://www.yongliangyang.net/docs/mobilePotrait_c&g19.pdf)
+25. 
 
 ### Some useful links
 
@@ -76,17 +78,17 @@
 ###  Some blogs
 
 1. [Real-time Portrait Segmentation on Smartphones](https://blog.prismalabs.ai/real-time-portrait-segmentation-on-smartphones-39c84f1b9e66)
-
 2. [Mobile Real-time Video Segmentation](https://ai.googleblog.com/2018/03/mobile-real-time-video-segmentation.html)
 3. [Real-Time deep learning in mobile application](https://medium.com/vitalify-asia/real-time-deep-learning-in-mobile-application-25cf601a8976)
 4. [QNNPACK: Open source library for optimized mobile deep learning](https://code.fb.com/ml-applications/qnnpack/)
 5. [第十七章 模型压缩及移动端部署](https://github.com/scutan90/DeepLearning-500-questions/blob/master/ch17_%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9%E3%80%81%E5%8A%A0%E9%80%9F%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%83%A8%E7%BD%B2/%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A0_%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9%E3%80%81%E5%8A%A0%E9%80%9F%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%83%A8%E7%BD%B2.md)
+6. [Tips for building fast portrait segmentation network with TensorFlow Lite](https://hyperconnect.github.io/2018/07/06/tips-for-building-fast-portrait-segmentation-network-with-tensorflow-lite.html)
 
 ###  Some  projects
 
 1. [Real-Time Video Segmentation on Mobile Devices](https://github.com/tantara/JejuNet)
 2. [LightNet++: Boosted Light-weighted Networks for Real-time Semantic Segmentation](https://github.com/ansleliu/LightNetPlusPlus)
-3. 
+3. [mobile_phone_human_matting](https://github.com/lizhengwei1992/mobile_phone_human_matting)
 
 ### Some inference framework
 
