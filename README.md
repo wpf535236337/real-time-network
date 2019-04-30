@@ -66,7 +66,12 @@
 22. In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images[cvpr2019](https://arxiv.org/pdf/1903.08469.pdf) [code](https://github.com/orsic/swiftnet)
 23. Towards Real-Time Automatic Portrait Matting on Mobile Devices [arxiv2019](https://arxiv.org/pdf/1904.03816.pdf) [code](https://github.com/hyperconnect/MMNet)
 24. PortraitNet: Real-time Portrait Segmentation Network for Mobile Device [Computers & Graphics 2019](http://www.yongliangyang.net/docs/mobilePotrait_c&g19.pdf)
-25. 
+
+### Object detection
+
+1. 
+
+
 
 ### Some useful links
 
@@ -74,6 +79,7 @@
 2. [awesome-model-compression-and-acceleration](https://github.com/sun254/awesome-model-compression-and-acceleration)
 3. [Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers)
 4. [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)   
+5. [awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
 
 ###  Some blogs
 
