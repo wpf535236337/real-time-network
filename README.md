@@ -95,6 +95,7 @@
 1. [Real-Time Video Segmentation on Mobile Devices](https://github.com/tantara/JejuNet)
 2. [LightNet++: Boosted Light-weighted Networks for Real-time Semantic Segmentation](https://github.com/ansleliu/LightNetPlusPlus)
 3. [mobile_phone_human_matting](https://github.com/lizhengwei1992/mobile_phone_human_matting)
+4. [Real-Time Semantic Segmentation in Mobile device](https://github.com/akirasosa/mobile-semantic-segmentation)
 
 ### Some inference framework
 
