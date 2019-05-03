@@ -49,12 +49,12 @@
 5. ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation [ESPNet](https://arxiv.org/abs/1803.06815)
 6. BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation [ECCV2018](https://arxiv.org/abs/1808.00897) [code](https://github.com/ycszen/TorchSeg)
 7. [A Comparative Study of Real-time Semantic Segmentation for Autonomous Driving](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Siam_A_Comparative_Study_CVPR_2018_paper.pdf)
-8. Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation[EDANet](https://github.com/shaoyuanlo/EDANet)
-9. Light-Weight RefineNet for Real-Time Semantic Segmentation[Light-Weight RefineNet](https://github.com/drsleep/light-weight-refinenet)
+8. Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation [EDANet](https://github.com/shaoyuanlo/EDANet)
+9. Light-Weight RefineNet for Real-Time Semantic Segmentation [Light-Weight RefineNet](https://github.com/drsleep/light-weight-refinenet)
 10. [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](https://github.com/tensorflow/models/tree/master/research/deeplab)
 11. CGNet: A Light-weight Context Guided Network for Semantic Segmentation [arxiv2018](https://arxiv.org/abs/1811.08201) [code](https://github.com/wutianyiRosun/CGNet)
 12. ShelfNet for Real-time Semantic Segmentation [arxiv2018](https://arxiv.org/pdf/1811.11254v1.pdf) [code](https://github.com/juntang-zhuang/ShelfNet)
-13. Concentrated-Comprehensive Convolutions for lightweight semantic segmentation[arxiv2018](https://arxiv.org/pdf/1812.04920.pdf)
+13. Concentrated-Comprehensive Convolutions for lightweight semantic segmentation [arxiv2018](https://arxiv.org/pdf/1812.04920.pdf)
 14. ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network [arxiv2018](https://arxiv.org/pdf/1811.11431.pdf) [code](https://github.com/sacmehta/ESPNetv2)
 15. Fast-SCNN: Fast Semantic Segmentation Network  [arxiv2019](https://arxiv.org/pdf/1902.04502.pdf)
 16. An efficient solution for semantic segmentation: ShuffleNet V2 with atrous separable convolutions [arxiv2019](https://arxiv.org/pdf/1902.07476.pdf)
@@ -66,6 +66,8 @@
 22. In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images[cvpr2019](https://arxiv.org/pdf/1903.08469.pdf) [code](https://github.com/orsic/swiftnet)
 23. Towards Real-Time Automatic Portrait Matting on Mobile Devices [arxiv2019](https://arxiv.org/pdf/1904.03816.pdf) [code](https://github.com/hyperconnect/MMNet)
 24. PortraitNet: Real-time Portrait Segmentation Network for Mobile Device [Computers & Graphics 2019](http://www.yongliangyang.net/docs/mobilePotrait_c&g19.pdf)
+25. Design of Real-time Semantic Segmentation Decoder for Automated Driving [VISAPP2019](https://arxiv.org/pdf/1901.06580.pdf)
+26. ThunderNet: A Turbo Unified Network for Real-Time Semantic Segmentation [WACV2019](http://vlm1.uta.edu/~athitsos/publications/xiang_wacv2019.pdf)
 
 ### Object detection
 
