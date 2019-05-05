@@ -68,6 +68,8 @@
 24. PortraitNet: Real-time Portrait Segmentation Network for Mobile Device [Computers & Graphics 2019](http://www.yongliangyang.net/docs/mobilePotrait_c&g19.pdf)
 25. Design of Real-time Semantic Segmentation Decoder for Automated Driving [VISAPP2019](https://arxiv.org/pdf/1901.06580.pdf)
 26. ThunderNet: A Turbo Unified Network for Real-Time Semantic Segmentation [WACV2019](http://vlm1.uta.edu/~athitsos/publications/xiang_wacv2019.pdf)
+27. LEDNet: A Lightweight Encoder-Decoder Network for Real-time Semantic Segmentation [ICIP2019](https://github.com/xiaoyufenfei/LEDNet) 
+28. Accurate Facial Image Parsing at Real-Time Speed [TIP2019](http://www.colalab.org/media/paper/bare_jrnl_EjnyBQb.pdf)
 
 ### Object detection
 
