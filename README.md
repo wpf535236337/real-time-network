@@ -3,14 +3,11 @@
 ### Google
 
 1. Learning Transferable Architectures for Scalable Image Recognition [NASNet](https://arxiv.org/abs/1707.07012)  
-
 2. MnasNet: Platform-Aware Neural Architecture Search for Mobile [MnasNet](https://arxiv.org/abs/1807.11626 )
-
 3. MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications [MobileNets](https://arxiv.org/abs/1704.04861)
-
 4. MobileNetV2: Inverted Residuals and Linear Bottlenecks [MobileNetV2](https://arxiv.org/pdf/1801.04381.pdf) [MobileNetV2-pytorch)](https://github.com/Randl/MobileNetV2-pytorch)
-
-5. MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks[CVPR2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gordon_MorphNet_Fast__CVPR_2018_paper.pdf) [code](https://github.com/google-research/morph-net)
+5. MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks [CVPR2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gordon_MorphNet_Fast__CVPR_2018_paper.pdf) [code](https://github.com/google-research/morph-net)
+6. Searching for MobileNetV3 [MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf)
 
 ### Megvill
 
@@ -107,6 +104,7 @@
 2. [caffe2](https://caffe2.ai/)
 3. [Tencent/ncnn](https://github.com/Tencent/ncnn)
 4. [XiaoMi/mace](https://github.com/XiaoMi/mace)
+5. [alibaba/MNN](https://github.com/alibaba/MNN)
 
 ### Some researcher
 
