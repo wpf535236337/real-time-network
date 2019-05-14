@@ -5,7 +5,7 @@
 1. Learning Transferable Architectures for Scalable Image Recognition [NASNet](https://arxiv.org/abs/1707.07012)  
 2. MnasNet: Platform-Aware Neural Architecture Search for Mobile [MnasNet](https://arxiv.org/abs/1807.11626 )
 3. MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications [MobileNets](https://arxiv.org/abs/1704.04861)
-4. MobileNetV2: Inverted Residuals and Linear Bottlenecks [MobileNetV2](https://arxiv.org/pdf/1801.04381.pdf) [MobileNetV2-pytorch)](https://github.com/Randl/MobileNetV2-pytorch)
+4. MobileNetV2: Inverted Residuals and Linear Bottlenecks [MobileNetV2](https://arxiv.org/pdf/1801.04381.pdf) [MobileNetV2-pytorch](https://github.com/Randl/MobileNetV2-pytorch)
 5. MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks [CVPR2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gordon_MorphNet_Fast__CVPR_2018_paper.pdf) [code](https://github.com/google-research/morph-net)
 6. Searching for MobileNetV3 [MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf)
 
@@ -67,11 +67,13 @@
 27. LEDNet: A Lightweight Encoder-Decoder Network for Real-time Semantic Segmentation [ICIP2019](https://arxiv.org/pdf/1905.02423.pdf) [code](https://github.com/xiaoyufenfei/LEDNet) 
 28. Accurate Facial Image Parsing at Real-Time Speed [TIP2019](http://www.colalab.org/media/paper/bare_jrnl_EjnyBQb.pdf)
 
-### Object detection
+### Tricks for training neural network
 
-1. 
-
-
+1.  [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)	(Apr 25, 2019)
+2.  [Improving deep learning models with bag of tricks](https://github.com/kmkolasinski/deep-learning-notes/tree/master/seminars/2018-12-Improving-DL-with-tricks) (Dec 13,2018)
+3.  [A Bag of Tricks for Image Classification](https://towardsdatascience.com/a-big-of-tricks-for-image-classification-fec41eb28e01) (Dec 17, 2018)
+4.  Bag of Tricks for Image Classification with Convolutional Neural Networks [cvpr2019](https://arxiv.org/abs/1812.01187) [code](https://github.com/dmlc/gluon-cv)
+5.  Bag of Freebies for Training Object Detection Neural Networks [arxiv2019](https://arxiv.org/abs/1902.04103) [code](https://github.com/dmlc/gluon-cv)
 
 ### Some useful links
 
