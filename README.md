@@ -32,10 +32,9 @@
 ### Others
 
 1. CondenseNet: An Efficient DenseNet using Learned Group Convolutions [CondenseNet](https://arxiv.org/abs/1711.09224)
-
 2. ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptation[ChamNet](https://arxiv.org/pdf/1812.08934.pdf)
-
 3. ANTNets: Mobile Convolutional Neural Networks for Resource Efficient Image Classification[arxiv2019](https://arxiv.org/pdf/1904.03775.pdf)
+4. Seesaw-Net: Convolution Neural Network With Uneven Group Convolution [arxiv2019](https://arxiv.org/pdf/1905.03672.pdf)
 
 ### Especially for semantic segmentation
 
