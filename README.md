@@ -7,34 +7,34 @@
 3. MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications [MobileNets](https://arxiv.org/abs/1704.04861)
 4. MobileNetV2: Inverted Residuals and Linear Bottlenecks [MobileNetV2](https://arxiv.org/pdf/1801.04381.pdf) [MobileNetV2-pytorch](https://github.com/Randl/MobileNetV2-pytorch)
 5. MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks [CVPR2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gordon_MorphNet_Fast__CVPR_2018_paper.pdf) [code](https://github.com/google-research/morph-net)
-6. Searching for MobileNetV3 [MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf)
-
-### Megvill
-
-1. ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices [ShuffleNet](https://arxiv.org/abs/1707.01083)
-
-2. ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design [ShuffleNet V2]( https://arxiv.org/abs/1807.11164)   [Shufflenet-v2-Pytorch](https://github.com/ericsun99/Shufflenet-v2-Pytorch)
+6. Searching for MobileNetV3 [MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf) **unofficial implementation** [MobileNetV3-for-Segmentation](https://github.com/Vipermdl/MobileNetV3-for-Segmentation)
 
 ### Microsoft Research
 
 1. Interleaved Group Convolutions for Deep Neural Networks [IGCV](https://arxiv.org/abs/1707.02725)
-
 2. IGCV2: Interleaved Structured Sparse Convolutional Neural Networks [IGCV2](https://arxiv.org/pdf/1804.06202.pdf)
-
 3. IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks [IGCV3](https://arxiv.org/abs/1806.00178)
+4. Accelerating Deep Neural Networks with Spatial Bottleneck Modules [arxiv2018](https://arxiv.org/pdf/1809.02601.pdf)
 
-4. [Accelerating Deep Neural Networks with Spatial Bottleneck Modules ](https://arxiv.org/pdf/1809.02601.pdf)
-
-## Facebook
+### Facebook
 
 1. Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution [arxiv2019](https://arxiv.org/pdf/1904.05049.pdf) **unofficial implementation** [OctaveConv_pytorch](https://github.com/lxtGH/OctaveConv_pytorch) [OctaveConv_MXNet](https://github.com/terrychenism/OctaveConv)
+2. FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search [arxiv2018](https://arxiv.org/pdf/1812.03443.pdf) [code](https://github.com/facebookresearch/mobile-vision)
+
+3. ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptation [arxiv2018](https://arxiv.org/pdf/1812.08934.pdf) [code](https://github.com/facebookresearch/mobile-vision)
+
+### Megvill
+
+1. ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices [ShuffleNet](https://arxiv.org/abs/1707.01083)
+2. ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design [ShuffleNet V2]( https://arxiv.org/abs/1807.11164)   [Shufflenet-v2-Pytorch](https://github.com/ericsun99/Shufflenet-v2-Pytorch)
 
 ### Others
 
 1. CondenseNet: An Efficient DenseNet using Learned Group Convolutions [CondenseNet](https://arxiv.org/abs/1711.09224)
-2. ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptation[ChamNet](https://arxiv.org/pdf/1812.08934.pdf)
-3. ANTNets: Mobile Convolutional Neural Networks for Resource Efficient Image Classification[arxiv2019](https://arxiv.org/pdf/1904.03775.pdf)
+3. ANTNets: Mobile Convolutional Neural Networks for Resource Efficient Image Classification [arxiv2019](https://arxiv.org/pdf/1904.03775.pdf)
 4. Seesaw-Net: Convolution Neural Network With Uneven Group Convolution [arxiv2019](https://arxiv.org/pdf/1905.03672.pdf)
+4. ISBNet: Instance-aware Selective Branching Network [arxiv2019](https://arxiv.org/pdf/1905.04849.pdf)
+5. Multinomial Distribution Learning for Effective Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1905.07529.pdf)  [code](https://github.com/tanglang96/MDENAS)
 
 ### Especially for semantic segmentation
 
@@ -66,6 +66,7 @@
 26. ThunderNet: A Turbo Unified Network for Real-Time Semantic Segmentation [WACV2019](http://vlm1.uta.edu/~athitsos/publications/xiang_wacv2019.pdf)
 27. LEDNet: A Lightweight Encoder-Decoder Network for Real-time Semantic Segmentation [ICIP2019](https://arxiv.org/pdf/1905.02423.pdf) [code](https://github.com/xiaoyufenfei/LEDNet) 
 28. Accurate Facial Image Parsing at Real-Time Speed [TIP2019](http://www.colalab.org/media/paper/bare_jrnl_EjnyBQb.pdf)
+29. Efficient Ladder-style DenseNets for Semantic Segmentation of Large Images [arxiv2019](https://arxiv.org/pdf/1905.05661.pdf)
 
 ### Tricks for training neural network
 
