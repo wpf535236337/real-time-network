@@ -8,6 +8,7 @@
 4. MobileNetV2: Inverted Residuals and Linear Bottlenecks [MobileNetV2](https://arxiv.org/pdf/1801.04381.pdf) [MobileNetV2-pytorch](https://github.com/Randl/MobileNetV2-pytorch)
 5. MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks [CVPR2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gordon_MorphNet_Fast__CVPR_2018_paper.pdf) [code](https://github.com/google-research/morph-net)
 6. Searching for MobileNetV3 [MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf) **unofficial implementation** [MobileNetV3-for-Segmentation](https://github.com/Vipermdl/MobileNetV3-for-Segmentation)
+7. Efficient Net: Rethinking Model Scaling for Convolutional Neural Networks. [ICML 2019](https://arxiv.org/pdf/1905.11946.pdf) [tfcode](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet) [unofficial pytorch version](https://github.com/zsef123/EfficientNets-PyTorch)
 
 ### Microsoft Research
 
