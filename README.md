@@ -36,6 +36,7 @@
 4. Seesaw-Net: Convolution Neural Network With Uneven Group Convolution [arxiv2019](https://arxiv.org/pdf/1905.03672.pdf)
 4. ISBNet: Instance-aware Selective Branching Network [arxiv2019](https://arxiv.org/pdf/1905.04849.pdf)
 5. Multinomial Distribution Learning for Effective Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1905.07529.pdf)  [code](https://github.com/tanglang96/MDENAS)
+6. HGC: Hierarchical Group Convolution for Highly Efficient Neural Network [arxiv2019](https://128.84.21.199/pdf/1906.03657.pdf)
 
 ### Especially for semantic segmentation
 
