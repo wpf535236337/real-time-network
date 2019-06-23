@@ -37,6 +37,7 @@
 4. ISBNet: Instance-aware Selective Branching Network [arxiv2019](https://arxiv.org/pdf/1905.04849.pdf)
 5. Multinomial Distribution Learning for Effective Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1905.07529.pdf)  [code](https://github.com/tanglang96/MDENAS)
 6. HGC: Hierarchical Group Convolution for Highly Efficient Neural Network [arxiv2019](https://128.84.21.199/pdf/1906.03657.pdf)
+7. DiCENet: Dimension-wise Convolutions for Efficient Networks [arxiv2019](https://arxiv.org/pdf/1906.03516.pdf) [code](https://github.com/sacmehta/EdgeNets)
 
 ### Especially for semantic segmentation
 
