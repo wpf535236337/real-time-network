@@ -71,6 +71,7 @@
 28. Accurate Facial Image Parsing at Real-Time Speed [TIP2019](http://www.colalab.org/media/paper/bare_jrnl_EjnyBQb.pdf)
 29. Efficient Ladder-style DenseNets for Semantic Segmentation of Large Images [arxiv2019](https://arxiv.org/pdf/1905.05661.pdf)
 30. Nail Polish Try-On: Realtime Semantic Segmentation of Small Objects forNative and Browser Smartphone AR Applications [ CVPRW2019](https://arxiv.org/pdf/1906.02222v1.pdf)
+31. ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation [arxiv2019](https://arxiv.org/pdf/1906.09826.pdf) [code](https://github.com/xiaoyufenfei/ESNet)
 
 ### Tricks for training neural network
 
