@@ -106,6 +106,8 @@
 2. [LightNet++: Boosted Light-weighted Networks for Real-time Semantic Segmentation](https://github.com/ansleliu/LightNetPlusPlus)
 3. [mobile_phone_human_matting](https://github.com/lizhengwei1992/mobile_phone_human_matting)
 4. [Real-Time Semantic Segmentation in Mobile device](https://github.com/akirasosa/mobile-semantic-segmentation)
+5. [Semantic Segmentation on PyTorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch)
+6. [Lightweight-Segmentation](https://github.com/Tramac/Lightweight-Segmentation)
 
 ### Some inference framework
 
