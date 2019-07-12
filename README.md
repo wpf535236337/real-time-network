@@ -89,6 +89,7 @@
 3. [Model-Compression-Papers](https://github.com/chester256/Model-Compression-Papers)
 4. [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)   
 5. [awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
+6. [常用的语义分割架构结构综述以及代码复现](https://github.com/guanfuchen/semseg)
 
 ###  Some blogs
 
