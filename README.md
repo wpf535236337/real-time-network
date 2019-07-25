@@ -39,82 +39,51 @@
 6. HGC: Hierarchical Group Convolution for Highly Efficient Neural Network [arxiv2019](https://128.84.21.199/pdf/1906.03657.pdf)
 7. DiCENet: Dimension-wise Convolutions for Efficient Networks [arxiv2019](https://arxiv.org/pdf/1906.03516.pdf) [code](https://github.com/sacmehta/EdgeNets)
 8. Densely Connected Search Space for More Flexible Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1906.09607.pdf) [code](https://github.com/JaminFong/DenseNAS)
+9. VarGNet: Variable Group Convolutional Neural Network for Efficient Embedded Computing [arxiv2019](https://arxiv.org/pdf/1907.05653.pdf) *Horizon Robotics*
 
 ### Especially for semantic segmentation
 
 1. ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation [ENet](https://arxiv.org/abs/1606.02147)
-
 2. ICNet for Real-Time Semantic Segmentation on High-Resolution Images [ICNet](https://arxiv.org/abs/1704.08545)
-
 3. Speeding up Semantic Segmentation for Autonomous Driving [SQNet](https://openreview.net/pdf?id=S1uHiFyyg)
-
 4. ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation [ERFNet](http://www.robesafe.es/personal/eduardo.romera/pdfs/Romera17tits.pdf)
-
 5. ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation [ESPNet](https://arxiv.org/abs/1803.06815)
-
 6. BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation [ECCV2018](https://arxiv.org/abs/1808.00897) [code](https://github.com/ycszen/TorchSeg)
-
 7. [A Comparative Study of Real-time Semantic Segmentation for Autonomous Driving](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Siam_A_Comparative_Study_CVPR_2018_paper.pdf)
-
 8. Efficient Dense Modules of Asymmetric Convolution for Real-Time Semantic Segmentation [EDANet](https://github.com/shaoyuanlo/EDANet)
-
 9. Light-Weight RefineNet for Real-Time Semantic Segmentation [Light-Weight RefineNet](https://github.com/drsleep/light-weight-refinenet)
-
 10. [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](https://github.com/tensorflow/models/tree/master/research/deeplab)
-
 11. CGNet: A Light-weight Context Guided Network for Semantic Segmentation [arxiv2018](https://arxiv.org/abs/1811.08201) [code](https://github.com/wutianyiRosun/CGNet)
-
 12. ShelfNet for Real-time Semantic Segmentation [arxiv2018](https://arxiv.org/pdf/1811.11254v1.pdf) [code](https://github.com/juntang-zhuang/ShelfNet)
-
 13. Concentrated-Comprehensive Convolutions for lightweight semantic segmentation [arxiv2018](https://arxiv.org/pdf/1812.04920.pdf)
-
 14. ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network [arxiv2018](https://arxiv.org/pdf/1811.11431.pdf) [code](https://github.com/sacmehta/ESPNetv2)
-
 15. Fast-SCNN: Fast Semantic Segmentation Network  [arxiv2019](https://arxiv.org/pdf/1902.04502.pdf) [code](https://github.com/kshitizrimal/Fast-SCNN/blob/master/tf_2_0_fast_scnn.py) [blog](https://medium.com/deep-learning-journals/fast-scnn-explained-and-implemented-using-tensorflow-2-0-6bd17c17a49e)
-
 16. An efficient solution for semantic segmentation: ShuffleNet V2 with atrous separable convolutions [arxiv2019](https://arxiv.org/pdf/1902.07476.pdf)
-
 17. Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation [cvpr2019](https://arxiv.org/pdf/1903.02120.pdf)
-
 18. DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation [cvpr2019Megvii ](https://arxiv.org/pdf/1904.02216.pdf)
-
 19. Real time backbone for semantic segmentation [arxiv2019](https://arxiv.org/pdf/1903.06922.pdf)
-
 20. Residual Pyramid Learning for Single-Shot Semantic Segmentation [arxiv2019](https://128.84.21.199/pdf/1903.09746.pdf)
-
 21. Knowledge Adaptation for Efficient Semantic Segmentation [cvpr2019](https://arxiv.org/pdf/1903.04688.pdf)
-
 22. In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images[cvpr2019](https://arxiv.org/pdf/1903.08469.pdf) [code](https://github.com/orsic/swiftnet)
-
 23. Towards Real-Time Automatic Portrait Matting on Mobile Devices [arxiv2019](https://arxiv.org/pdf/1904.03816.pdf) [code](https://github.com/hyperconnect/MMNet)
-
 24. PortraitNet: Real-time Portrait Segmentation Network for Mobile Device [Computers & Graphics 2019](http://www.yongliangyang.net/docs/mobilePotrait_c&g19.pdf) [code](https://github.com/wpf535236337/pytorch_PortraitNet)
-
 25. Design of Real-time Semantic Segmentation Decoder for Automated Driving [VISAPP2019](https://arxiv.org/pdf/1901.06580.pdf)
-
 26. ThunderNet: A Turbo Unified Network for Real-Time Semantic Segmentation [WACV2019](http://vlm1.uta.edu/~athitsos/publications/xiang_wacv2019.pdf)
-
 27. LEDNet: A Lightweight Encoder-Decoder Network for Real-time Semantic Segmentation [ICIP2019](https://arxiv.org/pdf/1905.02423.pdf) [code](https://github.com/xiaoyufenfei/LEDNet) 
-
 28. Accurate Facial Image Parsing at Real-Time Speed [TIP2019](http://www.colalab.org/media/paper/bare_jrnl_EjnyBQb.pdf)
-
 29. Efficient Ladder-style DenseNets for Semantic Segmentation of Large Images [arxiv2019](https://arxiv.org/pdf/1905.05661.pdf)
-
 30. Nail Polish Try-On: Realtime Semantic Segmentation of Small Objects forNative and Browser Smartphone AR Applications [ CVPRW2019](https://arxiv.org/pdf/1906.02222v1.pdf)
-
 31. ESNet: An Efficient Symmetric Network for Real-time Semantic Segmentation [arxiv2019](https://arxiv.org/pdf/1906.09826.pdf) [code](https://github.com/xiaoyufenfei/ESNet)
-
 32. Real-time Hair Segmentation and Recoloring on Mobile GPUs [2019CVPRW](https://arxiv.org/pdf/1907.06740.pdf)
-
-    ​						
+33. Efficient Segmentation: Learning Downsampling Near Semantic Boundaries [arxiv2019](https://arxiv.org/pdf/1907.07156v1.pdf)
+34. Multi-Class Lane Semantic Segmentation using Efficient Convolutional Networks [MMSP 2019](https://arxiv.org/pdf/1907.09438.pdf)
 
 ### Neural network architecture
 
 1. PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search [arxiv2019](https://arxiv.org/pdf/1907.05737.pdf) [code](https://github.com/yuhuixu1993/PC-DARTS) *Shanghai Jiao Tong University&&Huawei*
-
 2. Densely Connected Search Space for More Flexible Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1906.09607.pdf) [code](https://github.com/JaminFong/DenseNAS) *Huazhong University of Science and Technology &&Horizon Robotics*
 3. FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1907.01845.pdf) [code](https://github.com/fairnas/FairNAS) *Xiaomi AI Lab*
-4. 
+4. XferNAS: Transfer Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1907.08307.pdf) *IBM Research*
 
 ### Tricks for training neural network
 
@@ -141,7 +110,7 @@
 4. [QNNPACK: Open source library for optimized mobile deep learning](https://code.fb.com/ml-applications/qnnpack/)
 5. [第十七章 模型压缩及移动端部署](https://github.com/scutan90/DeepLearning-500-questions/blob/master/ch17_%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9%E3%80%81%E5%8A%A0%E9%80%9F%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%83%A8%E7%BD%B2/%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A0_%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9%E3%80%81%E5%8A%A0%E9%80%9F%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%83%A8%E7%BD%B2.md)
 6. [Tips for building fast portrait segmentation network with TensorFlow Lite](https://hyperconnect.github.io/2018/07/06/tips-for-building-fast-portrait-segmentation-network-with-tensorflow-lite.html)
-7. [Literature On Neural network architecture ](https://www.automl.org/automl/literature-on-neural-architecture-search/)
+7. $\color{red}{*}$ [Literature On Neural network architecture ](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 
 ###  Some  projects
 
