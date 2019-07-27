@@ -9,6 +9,7 @@
 5. MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks [CVPR2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gordon_MorphNet_Fast__CVPR_2018_paper.pdf) [code](https://github.com/google-research/morph-net)
 6. Searching for MobileNetV3 [MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf) **unofficial implementation** [MobileNetV3-for-Segmentation](https://github.com/Vipermdl/MobileNetV3-for-Segmentation)
 7. Efficient Net: Rethinking Model Scaling for Convolutional Neural Networks. [ICML 2019](https://arxiv.org/pdf/1905.11946.pdf) [tfcode](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet) [unofficial pytorch version](https://github.com/zsef123/EfficientNets-PyTorch)
+8. MixNet: Mixed Depthwise Convolutional Kernels [BMVC2019](https://arxiv.org/pdf/1907.09595.pdf) [code](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)
 
 ### Microsoft Research
 
@@ -36,7 +37,7 @@
 4. Seesaw-Net: Convolution Neural Network With Uneven Group Convolution [arxiv2019](https://arxiv.org/pdf/1905.03672.pdf)
 4. ISBNet: Instance-aware Selective Branching Network [arxiv2019](https://arxiv.org/pdf/1905.04849.pdf)
 5. Multinomial Distribution Learning for Effective Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1905.07529.pdf)  [code](https://github.com/tanglang96/MDENAS)
-6. HGC: Hierarchical Group Convolution for Highly Efficient Neural Network [arxiv2019](https://128.84.21.199/pdf/1906.03657.pdf)
+6. HGC: Hierarchical Group Convolution for Highcdly Efficient Neural Network [arxiv2019](https://128.84.21.199/pdf/1906.03657.pdf)
 7. DiCENet: Dimension-wise Convolutions for Efficient Networks [arxiv2019](https://arxiv.org/pdf/1906.03516.pdf) [code](https://github.com/sacmehta/EdgeNets)
 8. Densely Connected Search Space for More Flexible Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1906.09607.pdf) [code](https://github.com/JaminFong/DenseNAS)
 9. VarGNet: Variable Group Convolutional Neural Network for Efficient Embedded Computing [arxiv2019](https://arxiv.org/pdf/1907.05653.pdf) *Horizon Robotics*
@@ -120,7 +121,6 @@
 4. [Real-Time Semantic Segmentation in Mobile device](https://github.com/akirasosa/mobile-semantic-segmentation)
 5. [Semantic Segmentation on PyTorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch)
 6. [Lightweight-Segmentation](https://github.com/Tramac/Lightweight-Segmentation)
-7. 
 
 ### Some inference framework
 
