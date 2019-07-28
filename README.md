@@ -9,7 +9,7 @@
 5. MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks [CVPR2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gordon_MorphNet_Fast__CVPR_2018_paper.pdf) [code](https://github.com/google-research/morph-net)
 6. Searching for MobileNetV3 [MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf) **unofficial implementation** [MobileNetV3-for-Segmentation](https://github.com/Vipermdl/MobileNetV3-for-Segmentation)
 7. Efficient Net: Rethinking Model Scaling for Convolutional Neural Networks. [ICML 2019](https://arxiv.org/pdf/1905.11946.pdf) [tfcode](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet) [unofficial pytorch version](https://github.com/zsef123/EfficientNets-PyTorch)
-8. MixNet: Mixed Depthwise Convolutional Kernels [BMVC2019](https://arxiv.org/pdf/1907.09595.pdf) [code](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet)
+8. MixNet: Mixed Depthwise Convolutional Kernels [BMVC2019](https://arxiv.org/pdf/1907.09595.pdf) [Official TF Repo](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet) [Unofficial pytporch](https://github.com/zsef123/MixNet-PyTorch)
 
 ### Microsoft Research
 
