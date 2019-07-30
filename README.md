@@ -80,6 +80,7 @@
 34. Multi-Class Lane Semantic Segmentation using Efficient Convolutional Networks [MMSP 2019](https://arxiv.org/pdf/1907.09438.pdf)
 35.  A Comparative Study of High-Recall Real-Time Semantic Segmentation Based on Swift Factorized Network [SPIE Security + Defence 2019](https://arxiv.org/pdf/1907.11394.pdf) [code](https://github.com/Katexiang/swiftnet/tree/master/Swift_Factorized_Network(SFN))
 36. Context-Integrated and Feature-Refined Network for Lightweight Urban Scene Parsing [arxiv2019](https://arxiv.org/pdf/1907.11474.pdf)
+37. DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation [BMVC2019](https://128.84.21.199/pdf/1907.11357.pdf) [code](https://github.com/Reagan1311/DABNet)
 
 ### Neural network architecture
 
