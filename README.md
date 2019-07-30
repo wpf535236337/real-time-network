@@ -78,6 +78,7 @@
 32. Real-time Hair Segmentation and Recoloring on Mobile GPUs [2019CVPRW](https://arxiv.org/pdf/1907.06740.pdf)
 33. Efficient Segmentation: Learning Downsampling Near Semantic Boundaries [arxiv2019](https://arxiv.org/pdf/1907.07156v1.pdf)
 34. Multi-Class Lane Semantic Segmentation using Efficient Convolutional Networks [MMSP 2019](https://arxiv.org/pdf/1907.09438.pdf)
+35.  A Comparative Study of High-Recall Real-Time Semantic Segmentation Based on Swift Factorized Network [SPIE Security + Defence 2019](https://arxiv.org/pdf/1907.11394.pdf) [code](https://github.com/Katexiang/swiftnet/tree/master/Swift_Factorized_Network(SFN))
 
 ### Neural network architecture
 
