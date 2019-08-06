@@ -84,12 +84,13 @@
 38. Learning Lightweight Lane Detection CNNs by Self Attention Distillation [ICCV2019](https://arxiv.org/pdf/1908.00821.pdf) [torchRepo](https://github.com/cardwing/Codes-for-Lane-Detection)
 39. SqueezeNAS: Fast neural architecture search for faster semantic segmentation [arxiv2019](https://arxiv.org/pdf/1908.01748.pdf) *submitted to ICCV Neural Architects workshop*
 
-### Neural network architecture
+### Neural Architecture Search
 
 1. PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search [arxiv2019](https://arxiv.org/pdf/1907.05737.pdf) [code](https://github.com/yuhuixu1993/PC-DARTS) *Shanghai Jiao Tong University&&Huawei*
 2. Densely Connected Search Space for More Flexible Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1906.09607.pdf) [code](https://github.com/JaminFong/DenseNAS) *Huazhong University of Science and Technology &&Horizon Robotics*
 3. FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1907.01845.pdf) [code](https://github.com/fairnas/FairNAS) *Xiaomi AI Lab*
 4. XferNAS: Transfer Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1907.08307.pdf) *IBM Research*
+5. AutoML: A Survey of the State-of-the-Art [arxiv2019](https://arxiv.org/pdf/1908.00709.pdf)  *Hong Kong Baptist University*
 
 ### Tricks for training neural network
 
