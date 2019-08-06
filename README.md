@@ -65,7 +65,7 @@
 19. Real time backbone for semantic segmentation [arxiv2019](https://arxiv.org/pdf/1903.06922.pdf)
 20. Residual Pyramid Learning for Single-Shot Semantic Segmentation [arxiv2019](https://128.84.21.199/pdf/1903.09746.pdf)
 21. Knowledge Adaptation for Efficient Semantic Segmentation [cvpr2019](https://arxiv.org/pdf/1903.04688.pdf)
-22. In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images[cvpr2019](https://arxiv.org/pdf/1903.08469.pdf) [code](https://github.com/orsic/swiftnet)
+22. In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images [cvpr2019](https://arxiv.org/pdf/1903.08469.pdf) [code](https://github.com/orsic/swiftnet)
 23. Towards Real-Time Automatic Portrait Matting on Mobile Devices [arxiv2019](https://arxiv.org/pdf/1904.03816.pdf) [code](https://github.com/hyperconnect/MMNet)
 24. PortraitNet: Real-time Portrait Segmentation Network for Mobile Device [Computers & Graphics 2019](http://www.yongliangyang.net/docs/mobilePotrait_c&g19.pdf) [code](https://github.com/wpf535236337/pytorch_PortraitNet)
 25. Design of Real-time Semantic Segmentation Decoder for Automated Driving [VISAPP2019](https://arxiv.org/pdf/1901.06580.pdf)
@@ -81,6 +81,8 @@
 35.  A Comparative Study of High-Recall Real-Time Semantic Segmentation Based on Swift Factorized Network [SPIE Security + Defence 2019](https://arxiv.org/pdf/1907.11394.pdf) [code](https://github.com/Katexiang/swiftnet/tree/master/Swift_Factorized_Network(SFN))
 36. Context-Integrated and Feature-Refined Network for Lightweight Urban Scene Parsing [arxiv2019](https://arxiv.org/pdf/1907.11474.pdf)
 37. DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation [BMVC2019](https://128.84.21.199/pdf/1907.11357.pdf) [code](https://github.com/Reagan1311/DABNet)
+38. Learning Lightweight Lane Detection CNNs by Self Attention Distillation [ICCV2019](https://arxiv.org/pdf/1908.00821.pdf) [torchRepo](https://github.com/cardwing/Codes-for-Lane-Detection)
+39. SqueezeNAS: Fast neural architecture search for faster semantic segmentation [arxiv2019](https://arxiv.org/pdf/1908.01748.pdf) *submitted to ICCV Neural Architects workshop*
 
 ### Neural network architecture
 
@@ -115,6 +117,7 @@
 5. [第十七章 模型压缩及移动端部署](https://github.com/scutan90/DeepLearning-500-questions/blob/master/ch17_%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9%E3%80%81%E5%8A%A0%E9%80%9F%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%83%A8%E7%BD%B2/%E7%AC%AC%E5%8D%81%E4%B8%83%E7%AB%A0_%E6%A8%A1%E5%9E%8B%E5%8E%8B%E7%BC%A9%E3%80%81%E5%8A%A0%E9%80%9F%E5%8F%8A%E7%A7%BB%E5%8A%A8%E7%AB%AF%E9%83%A8%E7%BD%B2.md)
 6. [Tips for building fast portrait segmentation network with TensorFlow Lite](https://hyperconnect.github.io/2018/07/06/tips-for-building-fast-portrait-segmentation-network-with-tensorflow-lite.html)
 7. $\color{red}{*}$ [Literature On Neural network architecture ](https://www.automl.org/automl/literature-on-neural-architecture-search/)
+8. [A 2019 Guide to Semantic Segmentation](https://heartbeat.fritz.ai/a-2019-guide-to-semantic-segmentation-ca8242f5a7fc)
 
 ###  Some  projects
 
