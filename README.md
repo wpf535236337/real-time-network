@@ -91,6 +91,7 @@
 3. FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1907.01845.pdf) [code](https://github.com/fairnas/FairNAS) *Xiaomi AI Lab*
 4. XferNAS: Transfer Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1907.08307.pdf) *IBM Research*
 5. AutoML: A Survey of the State-of-the-Art [arxiv2019](https://arxiv.org/pdf/1908.00709.pdf)  *Hong Kong Baptist University*
+6. MoGA: Searching Beyond MobileNetV3 [arxiv2019](https://arxiv.org/abs/1908.01314) [code](https://github.com/xiaomi-automl/MoGA) *Xiaomi AI Lab*
 
 ### Tricks for training neural network
 
