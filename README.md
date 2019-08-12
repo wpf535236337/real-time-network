@@ -83,6 +83,7 @@
 37. DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation [BMVC2019](https://128.84.21.199/pdf/1907.11357.pdf) [code](https://github.com/Reagan1311/DABNet)
 38. Learning Lightweight Lane Detection CNNs by Self Attention Distillation [ICCV2019](https://arxiv.org/pdf/1908.00821.pdf) [torchRepo](https://github.com/cardwing/Codes-for-Lane-Detection)
 39. SqueezeNAS: Fast neural architecture search for faster semantic segmentation [arxiv2019](https://arxiv.org/pdf/1908.01748.pdf) *submitted to ICCV Neural Architects workshop*
+40. ExtremeC3Net: Extreme Lightweight Portrait Segmentation Networks using Advanced C3-modules [arxiv2019](https://arxiv.org/pdf/1908.03093v1.pdf) *Seoul National University && Clova AI, NAVER Corp*
 
 ### Neural Architecture Search
 
