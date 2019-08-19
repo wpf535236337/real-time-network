@@ -93,6 +93,7 @@
 4. XferNAS: Transfer Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1907.08307.pdf) *IBM Research*
 5. AutoML: A Survey of the State-of-the-Art [arxiv2019](https://arxiv.org/pdf/1908.00709.pdf)  *Hong Kong Baptist University*
 6. MoGA: Searching Beyond MobileNetV3 [arxiv2019](https://arxiv.org/abs/1908.01314) [code](https://github.com/xiaomi-automl/MoGA) *Xiaomi AI Lab*
+7. ScarletNAS: Bridging the Gap Between Scalability and Fairness in Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1908.06022.pdf) [code](https://github.com/xiaomi-automl/SCARLET-NAS)  *Xiaomi AI Lab && IoT*
 
 ### Tricks for training neural network
 
