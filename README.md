@@ -29,6 +29,7 @@
 
 1. ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices [ShuffleNet](https://arxiv.org/abs/1707.01083)
 2. ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design [ShuffleNet V2]( https://arxiv.org/abs/1807.11164)   [Shufflenet-v2-Pytorch](https://github.com/ericsun99/Shufflenet-v2-Pytorch)
+3. ShuffleNetV2+：[paper unrelease]() [code](https://github.com/megvii-model/ShuffleNet-Series/tree/master/ShuffleNetV2%2B)  *ShuffleNet Series by Megvii Research*
 
 ### Others
 
@@ -57,7 +58,7 @@
 11. CGNet: A Light-weight Context Guided Network for Semantic Segmentation [arxiv2018](https://arxiv.org/abs/1811.08201) [code](https://github.com/wutianyiRosun/CGNet)
 12. ShelfNet for Real-time Semantic Segmentation [arxiv2018](https://arxiv.org/pdf/1811.11254v1.pdf) [code](https://github.com/juntang-zhuang/ShelfNet)
 13. Concentrated-Comprehensive Convolutions for lightweight semantic segmentation [arxiv2018](https://arxiv.org/pdf/1812.04920.pdf)
-14. ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network [arxiv2018](https://arxiv.org/pdf/1811.11431.pdf) [code](https://github.com/sacmehta/ESPNetv2)
+14. ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network [cvpr2019](https://arxiv.org/pdf/1811.11431.pdf) [code](https://github.com/sacmehta/ESPNetv2)
 15. Fast-SCNN: Fast Semantic Segmentation Network  [arxiv2019](https://arxiv.org/pdf/1902.04502.pdf) [code](https://github.com/kshitizrimal/Fast-SCNN/blob/master/tf_2_0_fast_scnn.py) [blog](https://medium.com/deep-learning-journals/fast-scnn-explained-and-implemented-using-tensorflow-2-0-6bd17c17a49e)
 16. An efficient solution for semantic segmentation: ShuffleNet V2 with atrous separable convolutions [arxiv2019](https://arxiv.org/pdf/1902.07476.pdf)
 17. Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation [cvpr2019](https://arxiv.org/pdf/1903.02120.pdf)
