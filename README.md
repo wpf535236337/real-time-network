@@ -132,6 +132,7 @@
 4. [Real-Time Semantic Segmentation in Mobile device](https://github.com/akirasosa/mobile-semantic-segmentation)
 5. [Semantic Segmentation on PyTorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch)
 6. [Lightweight-Segmentation](https://github.com/Tramac/Lightweight-Segmentation)
+7. [A PyTorch-Based Framework for Deep Learning in Computer Vision](https://github.com/donnyyou/torchcv)
 
 ### Some inference framework
 
