@@ -85,6 +85,8 @@
 38. Learning Lightweight Lane Detection CNNs by Self Attention Distillation [ICCV2019](https://arxiv.org/pdf/1908.00821.pdf) [torchRepo](https://github.com/cardwing/Codes-for-Lane-Detection)
 39. SqueezeNAS: Fast neural architecture search for faster semantic segmentation [arxiv2019](https://arxiv.org/pdf/1908.01748.pdf) *submitted to ICCV Neural Architects workshop*
 40. ExtremeC3Net: Extreme Lightweight Portrait Segmentation Networks using Advanced C3-modules [arxiv2019](https://arxiv.org/pdf/1908.03093v1.pdf) *Seoul National University && Clova AI, NAVER Corp*
+41. Customizable Architecture Search for Semantic Segmentation [cvpr2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Customizable_Architecture_Search_for_Semantic_Segmentation_CVPR_2019_paper.pdf)  *University of Science and Technology of China && JD AI Research*
+42. See More than Once – Kernel-Sharing Atrous Convolution for Semantic Segmentation [arxiv2019](https://arxiv.org/pdf/1908.09443.pdf) *University of Technology Sydney && East China Normal University*
 
 ### Neural Architecture Search
 
