@@ -42,6 +42,8 @@
 7. DiCENet: Dimension-wise Convolutions for Efficient Networks [arxiv2019](https://arxiv.org/pdf/1906.03516.pdf) [code](https://github.com/sacmehta/EdgeNets)
 8. Densely Connected Search Space for More Flexible Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1906.09607.pdf) [code](https://github.com/JaminFong/DenseNAS)
 9. VarGNet: Variable Group Convolutional Neural Network for Efficient Embedded Computing [arxiv2019](https://arxiv.org/pdf/1907.05653.pdf) *Horizon Robotics*
+10. Once for All: Train One Network and Specialize it for Efficient Deployment [arxiv2019](https://arxiv.org/pdf/1908.09791.pdf) *MIT && MIT-IBM Watson AI Lab*
+11. 
 
 ### Especially for semantic segmentation
 
@@ -125,6 +127,7 @@
 6. [Tips for building fast portrait segmentation network with TensorFlow Lite](https://hyperconnect.github.io/2018/07/06/tips-for-building-fast-portrait-segmentation-network-with-tensorflow-lite.html)
 7. $\color{red}{*}$ [Literature On Neural network architecture ](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 8. [A 2019 Guide to Semantic Segmentation](https://heartbeat.fritz.ai/a-2019-guide-to-semantic-segmentation-ca8242f5a7fc)
+9. [Semantic Segmentation](https://zhangbin0917.github.io/2018/09/18/Semantic-Segmentation/)
 
 ###  Some  projects
 
