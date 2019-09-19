@@ -89,6 +89,8 @@
 40. ExtremeC3Net: Extreme Lightweight Portrait Segmentation Networks using Advanced C3-modules [arxiv2019](https://arxiv.org/pdf/1908.03093v1.pdf) *Seoul National University && Clova AI, NAVER Corp*
 41. Customizable Architecture Search for Semantic Segmentation [cvpr2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Customizable_Architecture_Search_for_Semantic_Segmentation_CVPR_2019_paper.pdf)  *University of Science and Technology of China && JD AI Research*
 42. See More than Once – Kernel-Sharing Atrous Convolution for Semantic Segmentation [arxiv2019](https://arxiv.org/pdf/1908.09443.pdf) *University of Technology Sydney && East China Normal University*
+43. Feature Pyramid Encoding Network for Real-time Semantic Segmentation [BMVC2019](https://arxiv.org/pdf/1909.08599.pdf) *The University of Manchester*
+44. Graph-guided Architecture Search for Real-time Semantic Segmentation [arxiv2019](https://arxiv.org/pdf/1909.06793.pdf) *SenseTime Research && Zhejiang University*
 
 ### Neural Architecture Search
 
