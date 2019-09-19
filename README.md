@@ -138,6 +138,7 @@
 5. [Semantic Segmentation on PyTorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch)
 6. [Lightweight-Segmentation](https://github.com/Tramac/Lightweight-Segmentation)
 7. [A PyTorch-Based Framework for Deep Learning in Computer Vision](https://github.com/donnyyou/torchcv)
+8. [A high performance semantic segmentation toolkit based on PaddlePaddle](https://github.com/PaddlePaddle/PaddleSeg)
 
 ### Some inference framework
 
