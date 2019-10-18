@@ -83,7 +83,7 @@
 34. Multi-Class Lane Semantic Segmentation using Efficient Convolutional Networks [MMSP 2019](https://arxiv.org/pdf/1907.09438.pdf)
 35.  A Comparative Study of High-Recall Real-Time Semantic Segmentation Based on Swift Factorized Network [SPIE Security + Defence 2019](https://arxiv.org/pdf/1907.11394.pdf) [code](https://github.com/Katexiang/swiftnet/tree/master/Swift_Factorized_Network(SFN))
 36. Context-Integrated and Feature-Refined Network for Lightweight Urban Scene Parsing [arxiv2019](https://arxiv.org/pdf/1907.11474.pdf)
-37. DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation [BMVC2019](https://128.84.21.199/pdf/1907.11357.pdf) [code](https://github.com/Reagan1311/DABNet)
+37. DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation [BMVC2019](https://arxiv.org/pdf/1907.11357v2.pdf) [code](https://github.com/Reagan1311/DABNet)
 38. Learning Lightweight Lane Detection CNNs by Self Attention Distillation [ICCV2019](https://arxiv.org/pdf/1908.00821.pdf) [torchRepo](https://github.com/cardwing/Codes-for-Lane-Detection)
 39. SqueezeNAS: Fast neural architecture search for faster semantic segmentation [arxiv2019](https://arxiv.org/pdf/1908.01748.pdf) *submitted to ICCV Neural Architects workshop*
 40. ExtremeC3Net: Extreme Lightweight Portrait Segmentation Networks using Advanced C3-modules [arxiv2019](https://arxiv.org/pdf/1908.03093v1.pdf) *Seoul National University && Clova AI, NAVER Corp*
@@ -118,6 +118,8 @@
 4. [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)   
 5. [awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
 6. [常用的语义分割架构结构综述以及代码复现](https://github.com/guanfuchen/semseg)
+7. [Efficient-Segmentation-Networks](https://github.com/xiaoyufenfei/Efficient-Segmentation-Networks)
+8. 
 
 ###  Some blogs
 
