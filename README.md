@@ -43,7 +43,7 @@
 8. Densely Connected Search Space for More Flexible Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1906.09607.pdf) [code](https://github.com/JaminFong/DenseNAS)
 9. VarGNet: Variable Group Convolutional Neural Network for Efficient Embedded Computing [arxiv2019](https://arxiv.org/pdf/1907.05653.pdf) *Horizon Robotics*
 10. Once for All: Train One Network and Specialize it for Efficient Deployment [arxiv2019](https://arxiv.org/pdf/1908.09791.pdf) *MIT && MIT-IBM Watson AI Lab*
-11. 
+11. LPRNet: Lightweight Deep Network by Low-rank Pointwise Residual Convolution [arxiv2019](https://arxiv.org/pdf/1910.11853.pdf)
 
 ### Especially for semantic segmentation
 
@@ -85,7 +85,7 @@
 36. Context-Integrated and Feature-Refined Network for Lightweight Urban Scene Parsing [arxiv2019](https://arxiv.org/pdf/1907.11474.pdf)
 37. DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation [BMVC2019](https://arxiv.org/pdf/1907.11357v2.pdf) [code](https://github.com/Reagan1311/DABNet)
 38. Learning Lightweight Lane Detection CNNs by Self Attention Distillation [ICCV2019](https://arxiv.org/pdf/1908.00821.pdf) [torchRepo](https://github.com/cardwing/Codes-for-Lane-Detection)
-39. SqueezeNAS: Fast neural architecture search for faster semantic segmentation [arxiv2019](https://arxiv.org/pdf/1908.01748.pdf) *submitted to ICCV Neural Architects workshop*
+39. SqueezeNAS: Fast neural architecture search for faster semantic segmentation [arxiv2019](https://arxiv.org/pdf/1908.01748.pdf) [code](https://github.com/ashaw596/squeezenas) *submitted to ICCV Neural Architects workshop* 
 40. ExtremeC3Net: Extreme Lightweight Portrait Segmentation Networks using Advanced C3-modules [arxiv2019](https://arxiv.org/pdf/1908.03093v1.pdf) *Seoul National University && Clova AI, NAVER Corp*
 41. Customizable Architecture Search for Semantic Segmentation [cvpr2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Customizable_Architecture_Search_for_Semantic_Segmentation_CVPR_2019_paper.pdf)  *University of Science and Technology of China && JD AI Research*
 42. See More than Once – Kernel-Sharing Atrous Convolution for Semantic Segmentation [arxiv2019](https://arxiv.org/pdf/1908.09443.pdf) *University of Technology Sydney && East China Normal University*
@@ -101,6 +101,7 @@
 5. AutoML: A Survey of the State-of-the-Art [arxiv2019](https://arxiv.org/pdf/1908.00709.pdf)  *Hong Kong Baptist University*
 6. MoGA: Searching Beyond MobileNetV3 [arxiv2019](https://arxiv.org/abs/1908.01314) [code](https://github.com/xiaomi-automl/MoGA) *Xiaomi AI Lab*
 7. ScarletNAS: Bridging the Gap Between Scalability and Fairness in Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1908.06022.pdf) [code](https://github.com/xiaomi-automl/SCARLET-NAS)  *Xiaomi AI Lab && IoT*
+8. BANANAS: Bayesian Optimization with Neural Architectures for Neural Architecture Search [arxiv](https://arxiv.org/pdf/1910.11858.pdf) [code](https://github.com/naszilla/bananas) [blog](https://medium.com/reality-engines/bananas-a-new-method-for-neural-architecture-search-192d21959c0c)
 
 ### Tricks for training neural network
 
