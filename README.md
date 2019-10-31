@@ -41,9 +41,13 @@
 6. HGC: Hierarchical Group Convolution for Highcdly Efficient Neural Network [arxiv2019](https://128.84.21.199/pdf/1906.03657.pdf)
 7. DiCENet: Dimension-wise Convolutions for Efficient Networks [arxiv2019](https://arxiv.org/pdf/1906.03516.pdf) [code](https://github.com/sacmehta/EdgeNets)
 8. Densely Connected Search Space for More Flexible Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1906.09607.pdf) [code](https://github.com/JaminFong/DenseNAS)
-9. VarGNet: Variable Group Convolutional Neural Network for Efficient Embedded Computing [arxiv2019](https://arxiv.org/pdf/1907.05653.pdf) *Horizon Robotics*
-10. Once for All: Train One Network and Specialize it for Efficient Deployment [arxiv2019](https://arxiv.org/pdf/1908.09791.pdf) *MIT && MIT-IBM Watson AI Lab*
-11. LPRNet: Lightweight Deep Network by Low-rank Pointwise Residual Convolution [arxiv2019](https://arxiv.org/pdf/1910.11853.pdf)
+9. VarGNet: Variable Group Convolutional Neural Network for Efficient Embedded Computing [arxiv2019](https://arxiv.org/pdf/1907.05653.pdf)     *Horizon Robotics* 
+10. VarGFaceNet: An Efficient Variable Group Convolutional Neural Network for Lightweight Face Recognition [VarGFaceNet](http://openaccess.thecvf.com/content_ICCVW_2019/papers/LSR/Yan_VarGFaceNet_An_Efficient_Variable_Group_Convolutional_Neural_Network_for_Lightweight_ICCVW_2019_paper.pdf)  [code](https://github.com/zma-c-137/VarGFaceNet) *Horizon Robotics*  (1st place in The Lightweight Face Recognition Challenge & Workshop ICCV 2019)
+11. Once for All: Train One Network and Specialize it for Efficient Deployment [arxiv2019](https://arxiv.org/pdf/1908.09791.pdf) *MIT && MIT-IBM Watson AI Lab*
+12. LPRNet: Lightweight Deep Network by Low-rank Pointwise Residual Convolution [arxiv2019](https://arxiv.org/pdf/1910.11853.pdf)
+13. LeanConvNets: Low-cost Yet Effective Convolutional Neural Networks [arxiv2019](https://arxiv.org/pdf/1910.13157v1.pdf)  *Ben-Gurion University&&Emory Universit*
+14. DeepSquare: Boosting the Learning Power of Deep Convolutional Neural Networks with Elementwise Square Operators [arxiv2019](https://arxiv.org/pdf/1906.04979.pdf) *ByteDance AI Lab*
+15. ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks [arxiv2019](https://arxiv.org/pdf/1910.03151.pdf) [code](https://github.com/BangguWu/ECANet) *Tianjin University* 
 
 ### Especially for semantic segmentation
 
