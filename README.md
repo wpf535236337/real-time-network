@@ -95,6 +95,8 @@
 42. See More than Once – Kernel-Sharing Atrous Convolution for Semantic Segmentation [arxiv2019](https://arxiv.org/pdf/1908.09443.pdf) *University of Technology Sydney && East China Normal University*
 43. Feature Pyramid Encoding Network for Real-time Semantic Segmentation [BMVC2019](https://arxiv.org/pdf/1909.08599.pdf) *The University of Manchester*
 44. Graph-guided Architecture Search for Real-time Semantic Segmentation [arxiv2019](https://arxiv.org/pdf/1909.06793.pdf) *SenseTime Research && Zhejiang University*
+45. Eye Semantic Segmentation with a Lightweight Model [ICCVW 2019]( https://arxiv.org/pdf/1911.01049.pdf)  [code](https://github.com/th2l/Eye_VR_Segmentation) *Chonnam National University*
+46. FDDWNet: A Lightweight Convolutional Neural Network for Real-time Sementic Segmentation [arxiv2019](https://arxiv.org/pdf/1911.00632.pdf)   *Nanjing University of Posts & Telecommunications*
 
 ### Neural Architecture Search
 
@@ -114,6 +116,7 @@
 3.  [A Bag of Tricks for Image Classification](https://towardsdatascience.com/a-big-of-tricks-for-image-classification-fec41eb28e01) (Dec 17, 2018)
 4.  Bag of Tricks for Image Classification with Convolutional Neural Networks [cvpr2019](https://arxiv.org/abs/1812.01187) [code](https://github.com/dmlc/gluon-cv)
 5.  Bag of Freebies for Training Object Detection Neural Networks [arxiv2019](https://arxiv.org/abs/1902.04103) [code](https://github.com/dmlc/gluon-cv)
+6.  
 
 ### Some useful links
 
@@ -148,17 +151,5 @@
 6. [Lightweight-Segmentation](https://github.com/Tramac/Lightweight-Segmentation)
 7. [A PyTorch-Based Framework for Deep Learning in Computer Vision](https://github.com/donnyyou/torchcv)
 8. [A high performance semantic segmentation toolkit based on PaddlePaddle](https://github.com/PaddlePaddle/PaddleSeg)
-
-### Some inference framework
-
-1. [TensorFlow Lite](https://www.tensorflow.org/lite)
-2. [caffe2](https://caffe2.ai/)
-3. [Tencent/ncnn](https://github.com/Tencent/ncnn)
-4. [XiaoMi/mace](https://github.com/XiaoMi/mace)
-5. [alibaba/MNN](https://github.com/alibaba/MNN)
-
-### Some researcher
-
-1. [SongHan](https://stanford.edu/~songhan/)
-2. [JingdongWang](https://www.microsoft.com/en-us/research/people/jingdw/#!publications)
+9. [PyTorch image models, scripts, pretrained weights](https://github.com/rwightman/pytorch-image-models)
 
