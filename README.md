@@ -48,8 +48,11 @@
 13. LeanConvNets: Low-cost Yet Effective Convolutional Neural Networks [arxiv2019](https://arxiv.org/pdf/1910.13157v1.pdf)  *Ben-Gurion University&&Emory Universit*
 14. DeepSquare: Boosting the Learning Power of Deep Convolutional Neural Networks with Elementwise Square Operators [arxiv2019](https://arxiv.org/pdf/1906.04979.pdf) *ByteDance AI Lab*
 15. ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks [arxiv2019](https://arxiv.org/pdf/1910.03151.pdf) [code](https://github.com/BangguWu/ECANet) *Tianjin University* 
+16. 
 
-### Especially for semantic segmentation
+
+
+### Semantic segmentation
 
 1. ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation [ENet](https://arxiv.org/abs/1606.02147)
 2. ICNet for Real-Time Semantic Segmentation on High-Resolution Images [ICNet](https://arxiv.org/abs/1704.08545)
@@ -98,6 +101,26 @@
 45. Eye Semantic Segmentation with a Lightweight Model [ICCVW 2019]( https://arxiv.org/pdf/1911.01049.pdf)  [code](https://github.com/th2l/Eye_VR_Segmentation) *Chonnam National University*
 46. FDDWNet: A Lightweight Convolutional Neural Network for Real-time Sementic Segmentation [arxiv2019](https://arxiv.org/pdf/1911.00632.pdf)   *Nanjing University of Posts & Telecommunications*
 
+47. Real-Time Semantic Segmentation via Multiply Spatial Fusion Network [arxiv2019](https://arxiv.org/pdf/1911.07217.pdf)  *Beihang University &&Megvii Technology&&Peng Cheng Laboratory*
+
+    
+
+### Instance Segmentation
+
+1. YOLACT: Real-time Instance Segmentation [ICCV2019](https://arxiv.org/pdf/1904.02689.pdf) [code](https://github.com/dbolya/yolact) *University of California, Davis*
+2. CenterMask:Real-Time Anchor-Free Instance Segmentation [VovnetV2](https://arxiv.org/pdf/1911.06667.pdf) *ETRI* 
+
+
+
+### Object detection
+
+1. An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection [CVPR2019 CEFRL Workshop](https://arxiv.org/pdf/1904.09730.pdf) [VOVNetPytorch](https://github.com/stigma0617/VoVNet.pytorch)  *ETRI* 
+2. EfficientDet: Scalable and Efficient Object Detection [arxiv2019](https://arxiv.org/pdf/1911.09070.pdf)  *Google Research, Brain Team*
+
+2. RefineDetLite: A Lightweight One-stage Object Detection Framework for CPU-only Devices [arxiv2019](https://arxiv.org/pdf/1911.08855.pdf) *Tencent Research&&HKUST*
+
+
+
 ### Neural Architecture Search
 
 1. PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search [arxiv2019](https://arxiv.org/pdf/1907.05737.pdf) [code](https://github.com/yuhuixu1993/PC-DARTS) *Shanghai Jiao Tong University&&Huawei*
@@ -108,6 +131,9 @@
 6. MoGA: Searching Beyond MobileNetV3 [arxiv2019](https://arxiv.org/abs/1908.01314) [code](https://github.com/xiaomi-automl/MoGA) *Xiaomi AI Lab*
 7. ScarletNAS: Bridging the Gap Between Scalability and Fairness in Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1908.06022.pdf) [code](https://github.com/xiaomi-automl/SCARLET-NAS)  *Xiaomi AI Lab && IoT*
 8. BANANAS: Bayesian Optimization with Neural Architectures for Neural Architecture Search [arxiv](https://arxiv.org/pdf/1910.11858.pdf) [code](https://github.com/naszilla/bananas) [blog](https://medium.com/reality-engines/bananas-a-new-method-for-neural-architecture-search-192d21959c0c)
+9. Fast and Practical Neural Architecture Search [iccv2019](http://jiaya.me/papers/fpnas_iccv19.pdf) *CUHK && YouTu Lab, Tencent*
+
+
 
 ### Tricks for training neural network
 
@@ -118,6 +144,8 @@
 5.  Bag of Freebies for Training Object Detection Neural Networks [arxiv2019](https://arxiv.org/abs/1902.04103) [code](https://github.com/dmlc/gluon-cv)
 6.  
 
+
+
 ### Some useful links
 
 1. [Awesome-model-compression-and-acceleration](https://github.com/memoiry/Awesome-model-compression-and-acceleration)
@@ -127,7 +155,8 @@
 5. [awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
 6. [常用的语义分割架构结构综述以及代码复现](https://github.com/guanfuchen/semseg)
 7. [Efficient-Segmentation-Networks](https://github.com/xiaoyufenfei/Efficient-Segmentation-Networks)
-8. 
+
+
 
 ###  Some blogs
 
@@ -140,6 +169,8 @@
 7. $\color{red}{*}$ [Literature On Neural network architecture ](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 8. [A 2019 Guide to Semantic Segmentation](https://heartbeat.fritz.ai/a-2019-guide-to-semantic-segmentation-ca8242f5a7fc)
 9. [Semantic Segmentation](https://zhangbin0917.github.io/2018/09/18/Semantic-Segmentation/)
+
+
 
 ###  Some  projects
 
