@@ -7,7 +7,7 @@
 3. MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications [MobileNets](https://arxiv.org/abs/1704.04861)
 4. MobileNetV2: Inverted Residuals and Linear Bottlenecks [MobileNetV2](https://arxiv.org/pdf/1801.04381.pdf) [MobileNetV2-pytorch](https://github.com/Randl/MobileNetV2-pytorch)
 5. MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks [CVPR2018](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gordon_MorphNet_Fast__CVPR_2018_paper.pdf) [code](https://github.com/google-research/morph-net)
-6. Searching for MobileNetV3 [MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf) **unofficial implementation** [MobileNetV3-for-Segmentation](https://github.com/Vipermdl/MobileNetV3-for-Segmentation)
+6. Searching for MobileNetV3 [MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf) **unofficial implementation** [MobileNetV3-for-Segmentation](https://github.com/Vipermdl/MobileNetV3-for-Segmentation) [official TF Repo](https://github.com/tensorflow/models/tree/master/research/object_detection)
 7. Efficient Net: Rethinking Model Scaling for Convolutional Neural Networks. [ICML 2019](https://arxiv.org/pdf/1905.11946.pdf) [tfcode](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet) [unofficial pytorch version](https://github.com/zsef123/EfficientNets-PyTorch)
 8. MixNet: Mixed Depthwise Convolutional Kernels [BMVC2019](https://arxiv.org/pdf/1907.09595.pdf) [Official TF Repo](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet) [Unofficial pytporch](https://github.com/zsef123/MixNet-PyTorch)
 
@@ -22,8 +22,8 @@
 
 1. Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution [arxiv2019](https://arxiv.org/pdf/1904.05049.pdf) **unofficial implementation** [OctaveConv_pytorch](https://github.com/lxtGH/OctaveConv_pytorch) [OctaveConv_MXNet](https://github.com/terrychenism/OctaveConv)
 2. FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search [arxiv2018](https://arxiv.org/pdf/1812.03443.pdf) [code](https://github.com/facebookresearch/mobile-vision)
-
 3. ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptation [arxiv2018](https://arxiv.org/pdf/1812.08934.pdf) [code](https://github.com/facebookresearch/mobile-vision)
+4. Hybrid Composition with IdleBlock: More Efficient Networks for Image Recognition [arxiv2019](https://arxiv.org/pdf/1911.08609.pdf)
 
 ### Megvill
 
@@ -116,8 +116,9 @@
 
 1. An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection [CVPR2019 CEFRL Workshop](https://arxiv.org/pdf/1904.09730.pdf) [VOVNetPytorch](https://github.com/stigma0617/VoVNet.pytorch)  *ETRI* 
 2. EfficientDet: Scalable and Efficient Object Detection [arxiv2019](https://arxiv.org/pdf/1911.09070.pdf)  *Google Research, Brain Team*
-
 2. RefineDetLite: A Lightweight One-stage Object Detection Framework for CPU-only Devices [arxiv2019](https://arxiv.org/pdf/1911.08855.pdf) *Tencent Research&&HKUST*
+3. Learning Spatial Fusion for Single-Shot Object Detection [arxiv2019](https://arxiv.org/pdf/1911.09516) [yolov3+](https://github.com/ruinmessi/ASFF) *Beihang University*
+5. CSPNet: A New Backbone that can Enhance Learning Capability of CNN [arxiv2019](https://arxiv.org/pdf/1911.11929.pdf) [CSPNet](https://github.com/WongKinYiu/CrossStagePartialNetworks) *research teams from TaiWan*
 
 
 
@@ -132,6 +133,7 @@
 7. ScarletNAS: Bridging the Gap Between Scalability and Fairness in Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1908.06022.pdf) [code](https://github.com/xiaomi-automl/SCARLET-NAS)  *Xiaomi AI Lab && IoT*
 8. BANANAS: Bayesian Optimization with Neural Architectures for Neural Architecture Search [arxiv](https://arxiv.org/pdf/1910.11858.pdf) [code](https://github.com/naszilla/bananas) [blog](https://medium.com/reality-engines/bananas-a-new-method-for-neural-architecture-search-192d21959c0c)
 9. Fast and Practical Neural Architecture Search [iccv2019](http://jiaya.me/papers/fpnas_iccv19.pdf) *CUHK && YouTu Lab, Tencent*
+10. Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search [arxiv2019](https://arxiv.org/pdf/1911.12126.pdf) [FairDARTS](https://github.com/xiaomi-automl/FairDARTS) *Xiaomi AI Lab &&Minzu University of China*
 
 
 
