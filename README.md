@@ -17,6 +17,7 @@
 2. IGCV2: Interleaved Structured Sparse Convolutional Neural Networks [IGCV2](https://arxiv.org/pdf/1804.06202.pdf)
 3. IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks [IGCV3](https://arxiv.org/abs/1806.00178)
 4. Accelerating Deep Neural Networks with Spatial Bottleneck Modules [arxiv2018](https://arxiv.org/pdf/1809.02601.pdf)
+5. Dynamic Convolution: Attention over Convolution Kernels [arxiv2019](https://arxiv.org/pdf/1912.03458.pdf)
 
 ### Facebook
 
@@ -150,7 +151,7 @@
 
 48. RGPNet: A Real-Time General Purpose Semantic Segmentation [arxiv2019](https://arxiv.org/pdf/1912.01394.pdf)  *Advanced Research Lab, NavInfo Europe*
 
-      
+  ​    
 
 ### Instance Segmentation
 
