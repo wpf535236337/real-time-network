@@ -157,6 +157,7 @@
 
 1. YOLACT: Real-time Instance Segmentation [ICCV2019](https://arxiv.org/pdf/1904.02689.pdf) [code](https://github.com/dbolya/yolact) *University of California, Davis*
 2. CenterMask:Real-Time Anchor-Free Instance Segmentation [VovnetV2](https://arxiv.org/pdf/1911.06667.pdf) *ETRI* 
+3. YOLACT++ Better Real-time Instance Segmentation [arxiv2019](YOLACT++ Better Real-time Instance Segmentation) *University of California, Davis*
 
 
 
@@ -245,6 +246,11 @@
 
 
 ### Inference framework
+
+1. ncnn
+2. paddle
+3. bolt
+4. Mace
 
 
 
