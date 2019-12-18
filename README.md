@@ -151,7 +151,9 @@
 
 48. RGPNet: A Real-Time General Purpose Semantic Segmentation [arxiv2019](https://arxiv.org/pdf/1912.01394.pdf)  *Advanced Research Lab, NavInfo Europe*
 
-  ​    
+49. LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation [DICTA2019](https://arxiv.org/pdf/1912.06683.pdf)
+
+   ​    
 
 ### Instance Segmentation
 
