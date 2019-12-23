@@ -191,6 +191,7 @@
 12. Blockwisely Supervised Neural Architecture Search with Knowledge Distillation  [arxiv2019](https://arxiv.org/abs/1911.13053) [DNA](https://github.com/jiefengpeng/DNA) *DarkMatter AI Research && Monash University &&Sun Yat-sen University*
 13. EDAS: Efficient and Differentiable Architecture Search [arxiv2019](https://128.84.21.199/pdf/1912.01237.pdf) *KAIST* 
 14. Efficient Differentiable Neural Architecture Search with Meta Kernels [arxiv2019](https://arxiv.org/pdf/1912.04749.pdf) *HUST &&YITU &&NUS*
+15. AtomNAS: Fine-Grained End-to-End Neural Architecture Search [ICIR2020](https://openreview.net/pdf?id=BylQSxHFwr) [AutoNAS](https://github.com/meijieru/AtomNAS) *Johns Hopkins University && ByteDance AI Lab*
 
 
 
@@ -242,7 +243,8 @@
 7. [A PyTorch-Based Framework for Deep Learning in Computer Vision](https://github.com/donnyyou/torchcv)
 8. [A high performance semantic segmentation toolkit based on PaddlePaddle](https://github.com/PaddlePaddle/PaddleSeg)
 9. [PyTorch image models, scripts, pretrained weights](https://github.com/rwightman/pytorch-image-models)
-10. [fast semantic segmentation models on CityScapes/Camvid DataSet by Pytorch](https://github.com/lxtGH/Fast_Seg) *lxtGH/Fast_Seg*
+10. [fast semantic segmentation models on CityScapes/Camvid DataSet by Pytorch](https://github.com/lxtGH/Fast_Seg) 
+11. [A semantic segmentation framework by pyotrch](https://github.com/Media-Smart/vedaseg)
 
 
 
