@@ -153,13 +153,15 @@
 
 49. LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation [DICTA2019](https://arxiv.org/pdf/1912.06683.pdf)
 
+50. FasterSeg: Searching for Faster Real-time Semantic Segmentation [ICIR2020](https://openreview.net/pdf?id=BJgqQ6NYvB) [FasterSeg](https://github.com/TAMU-VITA/FasterSeg) *Texas A&M University && Horizon Robotics Inc*
+
    ​    
 
 ### Instance Segmentation
 
 1. YOLACT: Real-time Instance Segmentation [ICCV2019](https://arxiv.org/pdf/1904.02689.pdf) [code](https://github.com/dbolya/yolact) *University of California, Davis*
 2. CenterMask:Real-Time Anchor-Free Instance Segmentation [VovnetV2](https://arxiv.org/pdf/1911.06667.pdf) *ETRI* 
-3. YOLACT++ Better Real-time Instance Segmentation [arxiv2019](YOLACT++ Better Real-time Instance Segmentation) *University of California, Davis*
+3. YOLACT++ Better Real-time Instance Segmentation [arxiv2019](YOLACT++ Better Real-time Instance Segmentation)  *University of California, Davis*
 
 
 
@@ -186,10 +188,9 @@
 9. Fast and Practical Neural Architecture Search [iccv2019](http://jiaya.me/papers/fpnas_iccv19.pdf) *CUHK && YouTu Lab, Tencent*
 10. Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search [arxiv2019](https://arxiv.org/pdf/1911.12126.pdf) [FairDARTS](https://github.com/xiaomi-automl/FairDARTS) *Xiaomi AI Lab &&Minzu University of China*
 11. SGAS: Sequential Greedy Architecture Search [arxiv2019](https://arxiv.org/pdf/1912.00195.pdf) [project]() *KAUST &&  Intel Labs*
-
 12. Blockwisely Supervised Neural Architecture Search with Knowledge Distillation  [arxiv2019](https://arxiv.org/abs/1911.13053) [DNA](https://github.com/jiefengpeng/DNA) *DarkMatter AI Research && Monash University &&Sun Yat-sen University*
-
 13. EDAS: Efficient and Differentiable Architecture Search [arxiv2019](https://128.84.21.199/pdf/1912.01237.pdf) *KAIST* 
+14. Efficient Differentiable Neural Architecture Search with Meta Kernels [arxiv2019](https://arxiv.org/pdf/1912.04749.pdf) *HUST &&YITU &&NUS*
 
 
 
