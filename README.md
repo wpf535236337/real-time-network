@@ -155,6 +155,8 @@
 
 50. FasterSeg: Searching for Faster Real-time Semantic Segmentation [ICIR2020](https://openreview.net/pdf?id=BJgqQ6NYvB) [FasterSeg](https://github.com/TAMU-VITA/FasterSeg) *Texas A&M University && Horizon Robotics Inc*
 
+51. Real-time Segmentation and Facial Skin Tones Grading [arxiv2019](https://arxiv.org/pdf/1912.12888.pdf) [HLRNet](https://github.com/JACKYLUO1991/Face-skin-hair-segmentaiton-and-skin-color-evaluation)
+
    ​    
 
 ### Instance Segmentation
