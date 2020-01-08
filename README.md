@@ -164,13 +164,15 @@
 1. YOLACT: Real-time Instance Segmentation [ICCV2019](https://arxiv.org/pdf/1904.02689.pdf) [code](https://github.com/dbolya/yolact) *University of California, Davis*
 2. CenterMask:Real-Time Anchor-Free Instance Segmentation [VovnetV2](https://arxiv.org/pdf/1911.06667.pdf) *ETRI* 
 3. YOLACT++ Better Real-time Instance Segmentation [arxiv2019](YOLACT++ Better Real-time Instance Segmentation)  *University of California, Davis*
+4. BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation [arxiv2020](https://arxiv.org/pdf/2001.00309.pdf) *The University of Adelaide && Southeast University &&Huawei Noah’s Ark Lab*
+5. Deep Snake for Real-Time Instance Segmentation [arxiv2020](https://arxiv.org/pdf/2001.01629.pdf) [snake](https://github.com/zju3dv/snake) *Zhejiang University* 
 
 
 
 ### Object detection
 
 1. An Energy and GPU-Computation Efficient Backbone Network for Real-Time Object Detection [CVPR2019 CEFRL Workshop](https://arxiv.org/pdf/1904.09730.pdf) [VOVNetPytorch](https://github.com/stigma0617/VoVNet.pytorch)  *ETRI* 
-2. EfficientDet: Scalable and Efficient Object Detection [arxiv2019](https://arxiv.org/pdf/1911.09070.pdf)  *Google Research, Brain Team*
+2. EfficientDet: Scalable and Efficient Object Detection [arxiv2019](https://arxiv.org/pdf/1911.09070.pdf)  [unofficial-EfficientDet.Pytorch](https://github.com/toandaominh1997/EfficientDet.Pytorch) *Google Research, Brain Team*
 2. RefineDetLite: A Lightweight One-stage Object Detection Framework for CPU-only Devices [arxiv2019](https://arxiv.org/pdf/1911.08855.pdf) *Tencent Research&&HKUST*
 3. Learning Spatial Fusion for Single-Shot Object Detection [arxiv2019](https://arxiv.org/pdf/1911.09516) [yolov3+](https://github.com/ruinmessi/ASFF) *Beihang University*
 5. CSPNet: A New Backbone that can Enhance Learning Capability of CNN [arxiv2019](https://arxiv.org/pdf/1911.11929.pdf) [CSPNet](https://github.com/WongKinYiu/CrossStagePartialNetworks) *research teams from TaiWan*
@@ -194,6 +196,7 @@
 13. EDAS: Efficient and Differentiable Architecture Search [arxiv2019](https://128.84.21.199/pdf/1912.01237.pdf) *KAIST* 
 14. Efficient Differentiable Neural Architecture Search with Meta Kernels [arxiv2019](https://arxiv.org/pdf/1912.04749.pdf) *HUST &&YITU &&NUS*
 15. AtomNAS: Fine-Grained End-to-End Neural Architecture Search [ICIR2020](https://openreview.net/pdf?id=BylQSxHFwr) [AutoNAS](https://github.com/meijieru/AtomNAS) *Johns Hopkins University && ByteDance AI Lab*
+16. EcoNAS: Finding Proxies for Economical Neural Architecture Search [arxiv2020](https://arxiv.org/pdf/2001.01233.pdf) *The University of Sydney &&Nanyang Technological University&&SenseTime Research*
 
 
 
