@@ -133,7 +133,7 @@
 
 39. SqueezeNAS: Fast neural architecture search for faster semantic segmentation [arxiv2019](https://arxiv.org/pdf/1908.01748.pdf) [code](https://github.com/ashaw596/squeezenas) *submitted to ICCV Neural Architects workshop* 
 
-40. ExtremeC3Net: Extreme Lightweight Portrait Segmentation Networks using Advanced C3-modules [arxiv2019](https://arxiv.org/pdf/1908.03093v1.pdf) *Seoul National University && Clova AI, NAVER Corp*
+40. ExtremeC3Net: Extreme Lightweight Portrait Segmentation Networks using Advanced C3-modules [arxiv2019](https://arxiv.org/pdf/1908.03093v1.pdf) [ExtremeC3Net](https://github.com/clovaai/ext_portrait_segmentation) *Seoul National University && Clova AI, NAVER Corp*
 
 41. Customizable Architecture Search for Semantic Segmentation [cvpr2019](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Customizable_Architecture_Search_for_Semantic_Segmentation_CVPR_2019_paper.pdf)  *University of Science and Technology of China && JD AI Research*
 
@@ -157,15 +157,18 @@
 
 51. Real-time Segmentation and Facial Skin Tones Grading [arxiv2019](https://arxiv.org/pdf/1912.12888.pdf) [HLRNet](https://github.com/JACKYLUO1991/Face-skin-hair-segmentaiton-and-skin-color-evaluation)
 
+52. SINet: Extreme Lightweight Portrait Segmentation Networks with Spatial Squeeze Modules and Information Blocking Decoder [WACV2020](https://arxiv.org/pdf/1911.09099.pdf) [SINet](https://github.com/clovaai/ext_portrait_segmentation)
+
    ​    
 
 ### Instance Segmentation
 
 1. YOLACT: Real-time Instance Segmentation [ICCV2019](https://arxiv.org/pdf/1904.02689.pdf) [code](https://github.com/dbolya/yolact) *University of California, Davis*
-2. CenterMask:Real-Time Anchor-Free Instance Segmentation [VovnetV2](https://arxiv.org/pdf/1911.06667.pdf) *ETRI* 
+2. CenterMask:Real-Time Anchor-Free Instance Segmentation [VovnetV2](https://arxiv.org/pdf/1911.06667.pdf) [CenterMask](https://github.com/youngwanLEE/CenterMask) *ETRI* 
 3. YOLACT++ Better Real-time Instance Segmentation [arxiv2019](YOLACT++ Better Real-time Instance Segmentation)  *University of California, Davis*
 4. BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation [arxiv2020](https://arxiv.org/pdf/2001.00309.pdf) *The University of Adelaide && Southeast University &&Huawei Noah’s Ark Lab*
 5. Deep Snake for Real-Time Instance Segmentation [arxiv2020](https://arxiv.org/pdf/2001.01629.pdf) [snake](https://github.com/zju3dv/snake) *Zhejiang University* 
+6. 
 
 
 
@@ -197,6 +200,7 @@
 14. Efficient Differentiable Neural Architecture Search with Meta Kernels [arxiv2019](https://arxiv.org/pdf/1912.04749.pdf) *HUST &&YITU &&NUS*
 15. AtomNAS: Fine-Grained End-to-End Neural Architecture Search [ICIR2020](https://openreview.net/pdf?id=BylQSxHFwr) [AutoNAS](https://github.com/meijieru/AtomNAS) *Johns Hopkins University && ByteDance AI Lab*
 16. EcoNAS: Finding Proxies for Economical Neural Architecture Search [arxiv2020](https://arxiv.org/pdf/2001.01233.pdf) *The University of Sydney &&Nanyang Technological University&&SenseTime Research*
+17. MixPath: A Unified Approach for One-shot Neural Architecture Search [arxiv2020](https://arxiv.org/pdf/2001.05887.pdf) [MixPath](https://github.com/xiaomi-automl/MixPath) *Xiaomi AI Lab &&UCAS*
 
 
 
