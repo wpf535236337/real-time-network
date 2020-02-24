@@ -164,7 +164,7 @@
 ### Instance Segmentation
 
 1. YOLACT: Real-time Instance Segmentation [ICCV2019](https://arxiv.org/pdf/1904.02689.pdf) [code](https://github.com/dbolya/yolact) *University of California, Davis*
-2. CenterMask:Real-Time Anchor-Free Instance Segmentation [VovnetV2](https://arxiv.org/pdf/1911.06667.pdf) [CenterMask](https://github.com/youngwanLEE/CenterMask) *ETRI* 
+2. CenterMask:Real-Time Anchor-Free Instance Segmentation [VovnetV2](https://arxiv.org/pdf/1911.06667.pdf) [CenterMask](https://github.com/youngwanLEE/CenterMask) [CenterMask2](https://github.com/youngwanLEE/centermask2) *ETRI* 
 3. YOLACT++ Better Real-time Instance Segmentation [arxiv2019](YOLACT++ Better Real-time Instance Segmentation)  *University of California, Davis*
 4. BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation [arxiv2020](https://arxiv.org/pdf/2001.00309.pdf) *The University of Adelaide && Southeast University &&Huawei Noah’s Ark Lab*
 5. Deep Snake for Real-Time Instance Segmentation [arxiv2020](https://arxiv.org/pdf/2001.01629.pdf) [snake](https://github.com/zju3dv/snake) *Zhejiang University* 
@@ -254,6 +254,7 @@
 9. [PyTorch image models, scripts, pretrained weights](https://github.com/rwightman/pytorch-image-models)
 10. [fast semantic segmentation models on CityScapes/Camvid DataSet by Pytorch](https://github.com/lxtGH/Fast_Seg) 
 11. [A semantic segmentation framework by pyotrch](https://github.com/Media-Smart/vedaseg)
+12. [PyTorch for Semantic Segmentation](https://github.com/LikeLy-Journey/SegmenTron)
 
 
 
