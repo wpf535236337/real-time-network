@@ -50,6 +50,7 @@
 14. DeepSquare: Boosting the Learning Power of Deep Convolutional Neural Networks with Elementwise Square Operators [arxiv2019](https://arxiv.org/pdf/1906.04979.pdf) *ByteDance AI Lab*
 15. ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks [arxiv2019](https://arxiv.org/pdf/1910.03151.pdf) [code](https://github.com/BangguWu/ECANet) *Tianjin University* 
 16. XSepConv: Extremely Separated Convolution [arxiv2020](https://arxiv.org/pdf/2002.12046.pdf) *Tsinghua University &&University College London*
+17. GhostNet: More Features from Cheap Operations [CVPR2020 ](https://arxiv.org/abs/1911.11907) [TF Repo](https://github.com/huawei-noah/ghostnet) *Huawei Noah’s Ark Lab&&Peking University&&Sydney U*
 
 
 
