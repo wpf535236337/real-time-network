@@ -50,7 +50,8 @@
 14. DeepSquare: Boosting the Learning Power of Deep Convolutional Neural Networks with Elementwise Square Operators [arxiv2019](https://arxiv.org/pdf/1906.04979.pdf) *ByteDance AI Lab*
 15. ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks [arxiv2019](https://arxiv.org/pdf/1910.03151.pdf) [code](https://github.com/BangguWu/ECANet) *Tianjin University* 
 16. XSepConv: Extremely Separated Convolution [arxiv2020](https://arxiv.org/pdf/2002.12046.pdf) *Tsinghua University &&University College London*
-17. GhostNet: More Features from Cheap Operations [CVPR2020 ](https://arxiv.org/abs/1911.11907) [TF Repo](https://github.com/huawei-noah/ghostnet) *Huawei Noah’s Ark Lab&&Peking University&&Sydney U*
+17. GhostNet: More Features from Cheap Operations [CVPR2020 ](https://arxiv.org/abs/1911.11907) [TF Repo](https://github.com/huawei-noah/ghostnet) *Huawei Noah’s Ark Lab&&Peking University&&Sydney University*
+18. Resolution Adaptive Networks for Efficient Inference [CVPR2020](https://arxiv.org/pdf/2003.07326.pdf) [RANet](https://github.com/yangle15/RANet-pytorch/blob/master/models/RANet.py) *Tsinghua && HIT &&SenseTime*
 
 
 
@@ -108,8 +109,9 @@
 50. FasterSeg: Searching for Faster Real-time Semantic Segmentation [ICIR2020](https://openreview.net/pdf?id=BJgqQ6NYvB) [FasterSeg](https://github.com/TAMU-VITA/FasterSeg) *Texas A&M University && Horizon Robotics Inc*
 51. Real-time Segmentation and Facial Skin Tones Grading [arxiv2019](https://arxiv.org/pdf/1912.12888.pdf) [HLRNet](https://github.com/JACKYLUO1991/Face-skin-hair-segmentaiton-and-skin-color-evaluation)
 52. SINet: Extreme Lightweight Portrait Segmentation Networks with Spatial Squeeze Modules and Information Blocking Decoder [WACV2020](https://arxiv.org/pdf/1911.09099.pdf) [SINet](https://github.com/clovaai/ext_portrait_segmentation)
-53. FarSee-Net: Real-Time Semantic Segmentation by Efficient Multi-scale Context Aggregation and Feature Space Super-resolution [ICRA2020](https://128.84.21.199/pdf/2003.03913.pdf)
-54. ​    
+53. FarSee-Net: Real-Time Semantic Segmentation by Efficient Multi-scale Context Aggregation and Feature Space Super-resolution [ICRA2020](https://128.84.21.199/pdf/2003.03913.pdf) *SenseTime && Tokyo University*
+54.   Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks [CVPR2020](https://128.84.21.199/pdf/2003.05128.pdf) [HANet](https://github.com/shachoi/HANet)  *Korea University && CA*
+55. Real-Time High-Performance Semantic Image Segmentation of Urban Street Scenes [arxiv2020](https://arxiv.org/pdf/2003.08736.pdf) *XMU*
 
 ### Instance Segmentation
 
@@ -159,7 +161,7 @@
 3.  [A Bag of Tricks for Image Classification](https://towardsdatascience.com/a-big-of-tricks-for-image-classification-fec41eb28e01) (Dec 17, 2018)
 4.  Bag of Tricks for Image Classification with Convolutional Neural Networks [cvpr2019](https://arxiv.org/abs/1812.01187) [code](https://github.com/dmlc/gluon-cv)
 5.  Bag of Freebies for Training Object Detection Neural Networks [arxiv2019](https://arxiv.org/abs/1902.04103) [code](https://github.com/dmlc/gluon-cv)
-6.  
+6.  Bag of Tricks for Image Classification by Arthur Kuzin [2020slide](https://docs.google.com/presentation/d/1TcHW6aH0QrcLG_SazEjGx5RCsNjF2SQ9gzIR4RKOsRU/edit#slide=id.p)
 
 
 
