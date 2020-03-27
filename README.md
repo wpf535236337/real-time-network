@@ -121,6 +121,7 @@
 4. BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation [arxiv2020](https://arxiv.org/pdf/2001.00309.pdf) *The University of Adelaide && Southeast University &&Huawei Noah’s Ark Lab*
 5. Deep Snake for Real-Time Instance Segmentation [cvpr2020](https://arxiv.org/pdf/2001.01629.pdf) [snake](https://github.com/zju3dv/snake) *Zhejiang University* 
 6. PolarMask: Single Shot Instance Segmentation with Polar Representation [cvpr2020](https://arxiv.org/pdf/1909.13226.pdf) [PolarMask](https://github.com/xieenze/PolarMask) *HKU*
+7. SOLOv2: Dynamic, Faster and Stronger [arxiv2020](https://arxiv.org/pdf/2003.10152.pdf) [SOLOV2](https://github.com/aim-uofa/AdelaiDet) *The University of Adelaide && Tongji University && ByteDance AI Lab*
 
 ### Object detection
 
@@ -188,6 +189,7 @@
 7. $\color{red}{*}$ [Literature On Neural network architecture ](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 8. [A 2019 Guide to Semantic Segmentation](https://heartbeat.fritz.ai/a-2019-guide-to-semantic-segmentation-ca8242f5a7fc)
 9. [Semantic Segmentation](https://zhangbin0917.github.io/2018/09/18/Semantic-Segmentation/)
+10. [Image segmentation in 2020: Architectures, Losses, Datasets, and Frameworks](https://neptune.ai/blog/image-segmentation-in-2020)
 
 
 
