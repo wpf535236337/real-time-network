@@ -52,6 +52,7 @@
 16. XSepConv: Extremely Separated Convolution [arxiv2020](https://arxiv.org/pdf/2002.12046.pdf) *Tsinghua University &&University College London*
 17. GhostNet: More Features from Cheap Operations [CVPR2020 ](https://arxiv.org/abs/1911.11907) [TF Repo](https://github.com/huawei-noah/ghostnet) *Huawei Noah’s Ark Lab&&Peking University&&Sydney University*
 18. Resolution Adaptive Networks for Efficient Inference [CVPR2020](https://arxiv.org/pdf/2003.07326.pdf) [RANet](https://github.com/yangle15/RANet-pytorch/blob/master/models/RANet.py) *Tsinghua && HIT &&SenseTime*
+19. TResNet: High Performance GPU-Dedicated Architecture [arxiv2020](https://arxiv.org/pdf/2003.13630.pdf) [TResNet](https://github.com/mrT23/TResNet) *DAMO Academy, Alibaba Group*
 
 
 
@@ -112,6 +113,7 @@
 53. FarSee-Net: Real-Time Semantic Segmentation by Efficient Multi-scale Context Aggregation and Feature Space Super-resolution [ICRA2020](https://128.84.21.199/pdf/2003.03913.pdf) *SenseTime && Tokyo University*
 54.   Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks [CVPR2020](https://128.84.21.199/pdf/2003.05128.pdf) [HANet](https://github.com/shachoi/HANet)  *Korea University && CA*
 55. Real-Time High-Performance Semantic Image Segmentation of Urban Street Scenes [arxiv2020](https://arxiv.org/pdf/2003.08736.pdf) *XMU*
+56. Real-Time Semantic Segmentation via Auto Depth, Downsampling Joint Decision and Feature Aggregation [arxiv2020](https://arxiv.org/pdf/2003.14226.pdf) *ZheJiang University*
 
 ### Instance Segmentation
 
@@ -121,7 +123,7 @@
 4. BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation [arxiv2020](https://arxiv.org/pdf/2001.00309.pdf) *The University of Adelaide && Southeast University &&Huawei Noah’s Ark Lab*
 5. Deep Snake for Real-Time Instance Segmentation [cvpr2020](https://arxiv.org/pdf/2001.01629.pdf) [snake](https://github.com/zju3dv/snake) *Zhejiang University* 
 6. PolarMask: Single Shot Instance Segmentation with Polar Representation [cvpr2020](https://arxiv.org/pdf/1909.13226.pdf) [PolarMask](https://github.com/xieenze/PolarMask) *HKU*
-7. SOLOv2: Dynamic, Faster and Stronger [arxiv2020](https://arxiv.org/pdf/2003.10152.pdf) [SOLOV2](https://github.com/aim-uofa/AdelaiDet) *The University of Adelaide && Tongji University && ByteDance AI Lab*
+7. SOLOv2: Dynamic, Faster and Stronger [arxiv2020](https://arxiv.org/pdf/2003.10152.pdf) [SOLOV2](https://github.com/aim-uofa/AdelaiDet) [UnofficialPytorchRepo](https://github.com/Epiphqny/SOLOv2) *The University of Adelaide && Tongji University && ByteDance AI Lab*
 
 ### Object detection
 
