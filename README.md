@@ -114,6 +114,8 @@
 54.   Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks [CVPR2020](https://128.84.21.199/pdf/2003.05128.pdf) [HANet](https://github.com/shachoi/HANet)  *Korea University && CA*
 55. Real-Time High-Performance Semantic Image Segmentation of Urban Street Scenes [arxiv2020](https://arxiv.org/pdf/2003.08736.pdf) *XMU*
 56. Real-Time Semantic Segmentation via Auto Depth, Downsampling Joint Decision and Feature Aggregation [arxiv2020](https://arxiv.org/pdf/2003.14226.pdf) *ZheJiang University*
+57. BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation [arxiv](https://arxiv.org/pdf/2004.02147.pdf) [BiSeNet V2](https://github.com/ycszen/BiSeNet) *HUST && The University of Adelaide &&CUHK && Tencent*
+58. 
 
 ### Instance Segmentation
 
