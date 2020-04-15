@@ -25,6 +25,7 @@
 2. FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search [arxiv2018](https://arxiv.org/pdf/1812.03443.pdf) [code](https://github.com/facebookresearch/mobile-vision)
 3. ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptation [arxiv2018](https://arxiv.org/pdf/1812.08934.pdf) [code](https://github.com/facebookresearch/mobile-vision)
 4. Hybrid Composition with IdleBlock: More Efficient Networks for Image Recognition [arxiv2019](https://arxiv.org/pdf/1911.08609.pdf)
+5. FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions [CVPR2020](https://128.84.21.199/pdf/2004.05565.pdf) [FBNetv2](https://github.com/facebookresearch/mobile-vision)
 
 ### Megvill
 
