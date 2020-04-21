@@ -195,6 +195,7 @@
 8. [A 2019 Guide to Semantic Segmentation](https://heartbeat.fritz.ai/a-2019-guide-to-semantic-segmentation-ca8242f5a7fc)
 9. [Semantic Segmentation](https://zhangbin0917.github.io/2018/09/18/Semantic-Segmentation/)
 10. [Image segmentation in 2020: Architectures, Losses, Datasets, and Frameworks](https://neptune.ai/blog/image-segmentation-in-2020)
+11. [New mobile neural network architectures](https://machinethink.net/blog/mobile-architectures/)
 
 
 
