@@ -45,7 +45,7 @@
 8. Densely Connected Search Space for More Flexible Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1906.09607.pdf) [code](https://github.com/JaminFong/DenseNAS)
 9. VarGNet: Variable Group Convolutional Neural Network for Efficient Embedded Computing [arxiv2019](https://arxiv.org/pdf/1907.05653.pdf)     *Horizon Robotics* 
 10. VarGFaceNet: An Efficient Variable Group Convolutional Neural Network for Lightweight Face Recognition [VarGFaceNet](http://openaccess.thecvf.com/content_ICCVW_2019/papers/LSR/Yan_VarGFaceNet_An_Efficient_Variable_Group_Convolutional_Neural_Network_for_Lightweight_ICCVW_2019_paper.pdf)  [code](https://github.com/zma-c-137/VarGFaceNet) *Horizon Robotics*  (1st place in The Lightweight Face Recognition Challenge & Workshop ICCV 2019)
-11. Once for All: Train One Network and Specialize it for Efficient Deployment [arxiv2019](https://arxiv.org/pdf/1908.09791.pdf) *MIT && MIT-IBM Watson AI Lab*
+11. Once for All: Train One Network and Specialize it for Efficient Deployment [ICLR 2020](https://arxiv.org/pdf/1908.09791.pdf) [ofaNet](https://github.com/mit-han-lab/once-for-all) *MIT && MIT-IBM Watson AI Lab*
 12. LPRNet: Lightweight Deep Network by Low-rank Pointwise Residual Convolution [arxiv2019](https://arxiv.org/pdf/1910.11853.pdf)
 13. LeanConvNets: Low-cost Yet Effective Convolutional Neural Networks [arxiv2019](https://arxiv.org/pdf/1910.13157v1.pdf)  *Ben-Gurion University&&Emory Universit*
 14. DeepSquare: Boosting the Learning Power of Deep Convolutional Neural Networks with Elementwise Square Operators [arxiv2019](https://arxiv.org/pdf/1906.04979.pdf) *ByteDance AI Lab*
@@ -135,6 +135,7 @@
 2. RefineDetLite: A Lightweight One-stage Object Detection Framework for CPU-only Devices [arxiv2019](https://arxiv.org/pdf/1911.08855.pdf) *Tencent Research&&HKUST*
 3. Learning Spatial Fusion for Single-Shot Object Detection [arxiv2019](https://arxiv.org/pdf/1911.09516) [yolov3+](https://github.com/ruinmessi/ASFF) *Beihang University*
 5. CSPNet: A New Backbone that can Enhance Learning Capability of CNN [arxiv2019](https://arxiv.org/pdf/1911.11929.pdf) [CSPNet](https://github.com/WongKinYiu/CrossStagePartialNetworks) *research teams from TaiWan*
+6. YOLOv4: Optimal Speed and Accuracy of Object Detection [arxiv2020](https://arxiv.org/pdf/2004.10934.pdf) [OfficialRepo](https://github.com/AlexeyAB/darknet) [Minimal PyTorch](https://github.com/Tianxiaomo/pytorch-YOLOv4) [Tensorflow 2.0Repo](https://github.com/hunglc007/tensorflow-yolov4-tflite)
 
 
 
