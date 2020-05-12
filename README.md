@@ -135,7 +135,7 @@
 2. RefineDetLite: A Lightweight One-stage Object Detection Framework for CPU-only Devices [arxiv2019](https://arxiv.org/pdf/1911.08855.pdf) *Tencent Research&&HKUST*
 3. Learning Spatial Fusion for Single-Shot Object Detection [arxiv2019](https://arxiv.org/pdf/1911.09516) [yolov3+](https://github.com/ruinmessi/ASFF) *Beihang University*
 5. CSPNet: A New Backbone that can Enhance Learning Capability of CNN [arxiv2019](https://arxiv.org/pdf/1911.11929.pdf) [CSPNet](https://github.com/WongKinYiu/CrossStagePartialNetworks) *research teams from TaiWan*
-6. YOLOv4: Optimal Speed and Accuracy of Object Detection [arxiv2020](https://arxiv.org/pdf/2004.10934.pdf) [OfficialRepo](https://github.com/AlexeyAB/darknet) [Minimal PyTorch](https://github.com/Tianxiaomo/pytorch-YOLOv4) [Tensorflow 2.0Repo](https://github.com/hunglc007/tensorflow-yolov4-tflite)
+6. YOLOv4: Optimal Speed and Accuracy of Object Detection [arxiv2020](https://arxiv.org/pdf/2004.10934.pdf) [OfficialRepo](https://github.com/AlexeyAB/darknet) [Minimal PyTorch](https://github.com/Tianxiaomo/pytorch-YOLOv4) [Tensorflow 2.0Repo](https://github.com/hunglc007/tensorflow-yolov4-tflite) [KerasRepo](https://github.com/Ma-Dan/keras-yolo4)
 
 
 
