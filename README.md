@@ -26,6 +26,7 @@
 3. ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptation [arxiv2018](https://arxiv.org/pdf/1812.08934.pdf) [code](https://github.com/facebookresearch/mobile-vision)
 4. Hybrid Composition with IdleBlock: More Efficient Networks for Image Recognition [arxiv2019](https://arxiv.org/pdf/1911.08609.pdf)
 5. FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions [CVPR2020](https://128.84.21.199/pdf/2004.05565.pdf) [FBNetv2](https://github.com/facebookresearch/mobile-vision)
+6. FBNetV3: Joint Architecture-Recipe Search using Neural Acquisition Function [arxiv2020](https://arxiv.org/pdf/2006.02049.pdf)
 
 ### Megvill
 
@@ -117,6 +118,7 @@
 56. Real-Time Semantic Segmentation via Auto Depth, Downsampling Joint Decision and Feature Aggregation [arxiv2020](https://arxiv.org/pdf/2003.14226.pdf) *ZheJiang University*
 57. BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation [arxiv2020](https://arxiv.org/pdf/2004.02147.pdf) [BiSeNet V2](https://github.com/ycszen/BiSeNet) *HUST && The University of Adelaide &&CUHK && Tencent*
 58. Bi-direction Context Propagation Network for Real-time Semantic Segmentation [arxiv2020](https://arxiv.org/pdf/2005.11034.pdf) *Hefei University of Technology*
+59. LRNNet: A Light-Weighted Network with Efficient Reduced Non-Local Operation for Real-Time Semantic Segmentation [arxiv2020](https://arxiv.org/pdf/2006.02706v1.pdf)  *SJTU*
 
 ### Instance Segmentation
 
