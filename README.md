@@ -55,6 +55,7 @@
 17. GhostNet: More Features from Cheap Operations [CVPR2020 ](https://arxiv.org/abs/1911.11907) [TF Repo](https://github.com/huawei-noah/ghostnet) *Huawei Noah’s Ark Lab&&Peking University&&Sydney University*
 18. Resolution Adaptive Networks for Efficient Inference [CVPR2020](https://arxiv.org/pdf/2003.07326.pdf) [RANet](https://github.com/yangle15/RANet-pytorch/blob/master/models/RANet.py) *Tsinghua && HIT &&SenseTime*
 19. TResNet: High Performance GPU-Dedicated Architecture [arxiv2020](https://arxiv.org/pdf/2003.13630.pdf) [TResNet](https://github.com/mrT23/TResNet) *DAMO Academy, Alibaba Group*
+20.  Neural Architecture Design for GPU-Efficient Networks [arxiv2020](https://arxiv.org/pdf/2006.14090.pdf) *Alibaba Group*
 
 
 
