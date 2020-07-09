@@ -56,8 +56,8 @@
 18. Resolution Adaptive Networks for Efficient Inference [CVPR2020](https://arxiv.org/pdf/2003.07326.pdf) [RANet](https://github.com/yangle15/RANet-pytorch/blob/master/models/RANet.py) *Tsinghua && HIT &&SenseTime*
 19. TResNet: High Performance GPU-Dedicated Architecture [arxiv2020](https://arxiv.org/pdf/2003.13630.pdf) [TResNet](https://github.com/mrT23/TResNet) *DAMO Academy, Alibaba Group*
 20.  Neural Architecture Design for GPU-Efficient Networks [arxiv2020](https://arxiv.org/pdf/2006.14090.pdf) *Alibaba Group*
-
-
+21. ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network [arxiv2020](https://arxiv.org/pdf/2007.00992) [rexnet](https://github.com/clovaai/rexnet) *Clova AI Research, NAVER Corp*
+22. Rethinking Bottleneck Structure for Efficient Mobile Network Design [ECCV2020](https://arxiv.org/pdf/2007.02269) [code may come soon](http://github.com/zhoudaquan/rethinking_bottleneck_design)
 
 ### Semantic segmentation
 
@@ -117,9 +117,11 @@
 54.   Cars Can’t Fly up in the Sky: Improving Urban-Scene Segmentation via Height-driven Attention Networks [CVPR2020](https://128.84.21.199/pdf/2003.05128.pdf) [HANet](https://github.com/shachoi/HANet)  *Korea University && CA*
 55. Real-Time High-Performance Semantic Image Segmentation of Urban Street Scenes [arxiv2020](https://arxiv.org/pdf/2003.08736.pdf) *XMU*
 56. Real-Time Semantic Segmentation via Auto Depth, Downsampling Joint Decision and Feature Aggregation [arxiv2020](https://arxiv.org/pdf/2003.14226.pdf) *ZheJiang University*
-57. BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation [arxiv2020](https://arxiv.org/pdf/2004.02147.pdf) [BiSeNet V2](https://github.com/ycszen/BiSeNet) *HUST && The University of Adelaide &&CUHK && Tencent*
+57. BiSeNet V2: Bilateral Network with Guided Aggregation for Real-time Semantic Segmentation [arxiv2020](https://arxiv.org/pdf/2004.02147.pdf) [BiSeNet V2](https://github.com/ycszen/BiSeNet) [bisenetv2-tensorflow](https://github.com/MaybeShewill-CV/bisenetv2-tensorflow) *HUST && The University of Adelaide &&CUHK && Tencent*
 58. Bi-direction Context Propagation Network for Real-time Semantic Segmentation [arxiv2020](https://arxiv.org/pdf/2005.11034.pdf) *Hefei University of Technology*
 59. LRNNet: A Light-Weighted Network with Efficient Reduced Non-Local Operation for Real-Time Semantic Segmentation [arxiv2020](https://arxiv.org/pdf/2006.02706v1.pdf)  *SJTU*
+60. Real-time Semantic Segmentation with Fast Attention [arxiv2020](https://arxiv.org/pdf/2007.03815.pdf) [Homepage](https://cs-people.bu.edu/pinghu/FANet.html) [FANet](https://github.com/feinanshan/FANet)  *Boston University && Adobe Research*
+61. Ultra Fast Structure-aware Deep Lane Detection [ECCV2020](https://arxiv.org/pdf/2007.03815.pdf) [code](https://github.com/cfzd/Ultra-Fast-Lane-Detection) *Zhejiang University*
 
 ### Instance Segmentation
 
