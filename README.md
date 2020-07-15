@@ -174,6 +174,7 @@
 4.  Bag of Tricks for Image Classification with Convolutional Neural Networks [cvpr2019](https://arxiv.org/abs/1812.01187) [code](https://github.com/dmlc/gluon-cv)
 5.  Bag of Freebies for Training Object Detection Neural Networks [arxiv2019](https://arxiv.org/abs/1902.04103) [code](https://github.com/dmlc/gluon-cv)
 6.  Bag of Tricks for Image Classification by Arthur Kuzin [2020slide](https://docs.google.com/presentation/d/1TcHW6aH0QrcLG_SazEjGx5RCsNjF2SQ9gzIR4RKOsRU/edit#slide=id.p)
+7.  carrier-of-tricks-for-classification-pytorch [2020code](https://github.com/hoya012/carrier-of-tricks-for-classification-pytorch)
 
 
 
