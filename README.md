@@ -33,6 +33,7 @@
 1. ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices [ShuffleNet](https://arxiv.org/abs/1707.01083)
 2. ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design [ShuffleNet V2]( https://arxiv.org/abs/1807.11164)   [Shufflenet-v2-Pytorch](https://github.com/ericsun99/Shufflenet-v2-Pytorch)
 3. ShuffleNetV2+：[paper unrelease]() [code](https://github.com/megvii-model/ShuffleNet-Series/tree/master/ShuffleNetV2%2B)  *ShuffleNet Series by Megvii Research*
+4. WeightNet: Revisiting the Design Space of Weight Networks [ECCV2020](https://arxiv.org/pdf/2007.11823.pdf) [WeightNet](https://github.com/megvii-model/WeightNet)
 
 ### Others
 
@@ -122,6 +123,9 @@
 59. LRNNet: A Light-Weighted Network with Efficient Reduced Non-Local Operation for Real-Time Semantic Segmentation [arxiv2020](https://arxiv.org/pdf/2006.02706v1.pdf)  *SJTU*
 60. Real-time Semantic Segmentation with Fast Attention [arxiv2020](https://arxiv.org/pdf/2007.03815.pdf) [Homepage](https://cs-people.bu.edu/pinghu/FANet.html) [FANet](https://github.com/feinanshan/FANet)  *Boston University && Adobe Research*
 61. Ultra Fast Structure-aware Deep Lane Detection [ECCV2020](https://arxiv.org/pdf/2007.03815.pdf) [code](https://github.com/cfzd/Ultra-Fast-Lane-Detection) *Zhejiang University*
+62. Improving Semantic Segmentation via Decoupled Body and Edge Supervision [ECCV2020](https://arxiv.org/pdf/2007.10035v1.pdf) [DecoupleSegNets](https://github.com/lxtGH/DecoupleSegNets) *Peking University && University of Oxford && SenseTime Research && Zhejiang Lab*
+63. Semantic Segmentation With Multi Scale Spatial Attention For Self Driving Cars [arxiv2020](https://arxiv.org/pdf/2007.12685.pdf)
+64. 
 
 ### Instance Segmentation
 
