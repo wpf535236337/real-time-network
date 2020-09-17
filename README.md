@@ -125,7 +125,7 @@
 61. Ultra Fast Structure-aware Deep Lane Detection [ECCV2020](https://arxiv.org/pdf/2007.03815.pdf) [code](https://github.com/cfzd/Ultra-Fast-Lane-Detection) *Zhejiang University*
 62. Improving Semantic Segmentation via Decoupled Body and Edge Supervision [ECCV2020](https://arxiv.org/pdf/2007.10035v1.pdf) [DecoupleSegNets](https://github.com/lxtGH/DecoupleSegNets) *Peking University && University of Oxford && SenseTime Research && Zhejiang Lab*
 63. Semantic Segmentation With Multi Scale Spatial Attention For Self Driving Cars [arxiv2020](https://arxiv.org/pdf/2007.12685.pdf)
-64. 
+64. EfficientSeg: An Efficient Semantic Segmentation Network [arxiv2020](https://arxiv.org/pdf/2009.06469.pdf) [EfficientSeg](https://github.com/MrGranddy/EfficientSeg)
 
 ### Instance Segmentation
 
