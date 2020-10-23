@@ -126,6 +126,7 @@
 62. Improving Semantic Segmentation via Decoupled Body and Edge Supervision [ECCV2020](https://arxiv.org/pdf/2007.10035v1.pdf) [DecoupleSegNets](https://github.com/lxtGH/DecoupleSegNets) *Peking University && University of Oxford && SenseTime Research && Zhejiang Lab*
 63. Semantic Segmentation With Multi Scale Spatial Attention For Self Driving Cars [arxiv2020](https://arxiv.org/pdf/2007.12685.pdf)
 64. EfficientSeg: An Efficient Semantic Segmentation Network [arxiv2020](https://arxiv.org/pdf/2009.06469.pdf) [EfficientSeg](https://github.com/MrGranddy/EfficientSeg)
+65. Dense Dual-Path Network for Real-time Semantic Segmentation [ACCV2020](https://arxiv.org/abs/2010.10778)
 
 ### Instance Segmentation
 
