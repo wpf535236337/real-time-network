@@ -59,6 +59,7 @@
 20.  Neural Architecture Design for GPU-Efficient Networks [arxiv2020](https://arxiv.org/pdf/2006.14090.pdf) *Alibaba Group*
 21. ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network [arxiv2020](https://arxiv.org/pdf/2007.00992) [rexnet](https://github.com/clovaai/rexnet) *Clova AI Research, NAVER Corp*
 22. Rethinking Bottleneck Structure for Efficient Mobile Network Design [ECCV2020](https://arxiv.org/pdf/2007.02269) [MobileNeXt](https://github.com/RangiLyu/mobilenext) [yitu-opensource](https://github.com/yitu-opensource/MobileNeXt)
+23. Model Rubik’s Cube: Twisting Resolution, Depth and Width for TinyNets [NeurIPS 2020](https://arxiv.org/abs/2010.14819)**
 
 ### Semantic segmentation
 
@@ -127,6 +128,7 @@
 63. Semantic Segmentation With Multi Scale Spatial Attention For Self Driving Cars [arxiv2020](https://arxiv.org/pdf/2007.12685.pdf)
 64. EfficientSeg: An Efficient Semantic Segmentation Network [arxiv2020](https://arxiv.org/pdf/2009.06469.pdf) [EfficientSeg](https://github.com/MrGranddy/EfficientSeg)
 65. Dense Dual-Path Network for Real-time Semantic Segmentation [ACCV2020](https://arxiv.org/abs/2010.10778)
+66. CABiNet: Efficient Context Aggregation Network for Low-Latency Semantic Segmentation [arxiv2020](https://arxiv.org/abs/2011.00993)
 
 ### Instance Segmentation
 
