@@ -27,6 +27,7 @@
 4. Hybrid Composition with IdleBlock: More Efficient Networks for Image Recognition [arxiv2019](https://arxiv.org/pdf/1911.08609.pdf)
 5. FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions [CVPR2020](https://128.84.21.199/pdf/2004.05565.pdf) [FBNetv2](https://github.com/facebookresearch/mobile-vision)
 6. FBNetV3: Joint Architecture-Recipe Search using Neural Acquisition Function [arxiv2020](https://arxiv.org/pdf/2006.02049.pdf)
+7. FP-NAS: Fast Probabilistic Neural Architecture Search [arxiv2020](https://arxiv.org/abs/2011.10949)
 
 ### Megvill
 
@@ -60,6 +61,7 @@
 21. ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network [arxiv2020](https://arxiv.org/pdf/2007.00992) [rexnet](https://github.com/clovaai/rexnet) *Clova AI Research, NAVER Corp*
 22. Rethinking Bottleneck Structure for Efficient Mobile Network Design [ECCV2020](https://arxiv.org/pdf/2007.02269) [MobileNeXt](https://github.com/RangiLyu/mobilenext) [yitu-opensource](https://github.com/yitu-opensource/MobileNeXt)
 23. Model Rubik’s Cube: Twisting Resolution, Depth and Width for TinyNets [NeurIPS 2020](https://arxiv.org/abs/2010.14819)**
+24. MicroNet: Towards Image Recognition with Extremely Low FLOPs [arxiv2020](https://arxiv.org/abs/2011.12289v1) *UC San Diego && Microsoft*
 
 ### Semantic segmentation
 
@@ -129,6 +131,7 @@
 64. EfficientSeg: An Efficient Semantic Segmentation Network [arxiv2020](https://arxiv.org/pdf/2009.06469.pdf) [EfficientSeg](https://github.com/MrGranddy/EfficientSeg)
 65. Dense Dual-Path Network for Real-time Semantic Segmentation [ACCV2020](https://arxiv.org/abs/2010.10778)
 66. CABiNet: Efficient Context Aggregation Network for Low-Latency Semantic Segmentation [arxiv2020](https://arxiv.org/abs/2011.00993)
+67. SegBlocks: Block-Based Dynamic Resolution Networks for Real-Time Segmentation [arxiv2020](https://arxiv.org/abs/2011.12025) *KU Leuven*
 
 ### Instance Segmentation
 
