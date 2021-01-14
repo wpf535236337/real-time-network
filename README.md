@@ -35,6 +35,7 @@
 2. ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design [ShuffleNet V2]( https://arxiv.org/abs/1807.11164)   [Shufflenet-v2-Pytorch](https://github.com/ericsun99/Shufflenet-v2-Pytorch)
 3. ShuffleNetV2+：[paper unrelease]() [code](https://github.com/megvii-model/ShuffleNet-Series/tree/master/ShuffleNetV2%2B)  *ShuffleNet Series by Megvii Research*
 4. WeightNet: Revisiting the Design Space of Weight Networks [ECCV2020](https://arxiv.org/pdf/2007.11823.pdf) [WeightNet](https://github.com/megvii-model/WeightNet)
+5. RepVGG: Making VGG-style ConvNets Great Again [arxiv2020](https://arxiv.org/abs/2101.03697) [RepVGG](https://github.com/DingXiaoH/RepVGG) *Tsinghua University, MEGVII Technology, etc*
 
 ### Others
 
@@ -132,6 +133,10 @@
 65. Dense Dual-Path Network for Real-time Semantic Segmentation [ACCV2020](https://arxiv.org/abs/2010.10778)
 66. CABiNet: Efficient Context Aggregation Network for Low-Latency Semantic Segmentation [arxiv2020](https://arxiv.org/abs/2011.00993)
 67. SegBlocks: Block-Based Dynamic Resolution Networks for Real-Time Segmentation [arxiv2020](https://arxiv.org/abs/2011.12025) *KU Leuven*
+68. Real-Time High-Resolution Background Matting [arxiv2020](https://arxiv.org/abs/2012.07810) [hompage](https://grail.cs.washington.edu/projects/background-matting-v2/) [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2) *University of Washington* 
+69. Is a Green Screen Really Necessary for Real-Time Portrait Matting? [arxiv2020](https://arxiv.org/abs/2011.11961) [MODNet](https://github.com/ZHKKKe/MODNet) *City University of Hong Kong, SenseTime Research*
+70. HyperSeg: Patch-wise Hypernetwork for Real-time Semantic Segmentation [arxiv2020](https://arxiv.org/abs/2012.11582) *Facebook AI, Tel Aviv University*
+71. Boundary-Aware Segmentation Network for Mobile and Web Applications [submitted to TPAMI](https://arxiv.org/abs/2101.04704) [BASNet](https://github.com/NathanUA/BASNet)
 
 ### Instance Segmentation
 
@@ -142,6 +147,13 @@
 5. Deep Snake for Real-Time Instance Segmentation [cvpr2020](https://arxiv.org/pdf/2001.01629.pdf) [snake](https://github.com/zju3dv/snake) *Zhejiang University* 
 6. PolarMask: Single Shot Instance Segmentation with Polar Representation [cvpr2020](https://arxiv.org/pdf/1909.13226.pdf) [PolarMask](https://github.com/xieenze/PolarMask) *HKU*
 7. SOLOv2: Dynamic, Faster and Stronger [arxiv2020](https://arxiv.org/pdf/2003.10152.pdf) [SOLOV2](https://github.com/aim-uofa/AdelaiDet) [UnofficialPytorchRepo](https://github.com/Epiphqny/SOLOv2) *The University of Adelaide && Tongji University && ByteDance AI Lab*
+8. YolactEdge: Real-time Instance Segmentation on the Edge [arxiv2020](https://arxiv.org/abs/2012.12259) [YolactEdge](https://github.com/haotian-liu/yolact_edge)
+
+### Salient Object Detection
+
+* U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection [PR2020](https://arxiv.org/abs/2005.09007) [U-2-Net](https://github.com/NathanUA/U-2-Net)
+* Highly Efficient Salient Object Detection with 100K Parameters [ECCV2020](https://arxiv.org/abs/2003.05643) [CSNet](https://github.com/MCG-NKU/SOD100K)
+* MobileSal: Extremely Efficient RGB-D Salient Object Detection [arxiv2020](https://arxiv.org/abs/2012.13095)
 
 ### Object detection
 
@@ -151,8 +163,7 @@
 3. Learning Spatial Fusion for Single-Shot Object Detection [arxiv2019](https://arxiv.org/pdf/1911.09516) [yolov3+](https://github.com/ruinmessi/ASFF) *Beihang University*
 5. CSPNet: A New Backbone that can Enhance Learning Capability of CNN [arxiv2019](https://arxiv.org/pdf/1911.11929.pdf) [CSPNet](https://github.com/WongKinYiu/CrossStagePartialNetworks) *research teams from TaiWan*
 6. YOLOv4: Optimal Speed and Accuracy of Object Detection [arxiv2020](https://arxiv.org/pdf/2004.10934.pdf) [OfficialRepo](https://github.com/AlexeyAB/darknet) [Minimal PyTorch](https://github.com/Tianxiaomo/pytorch-YOLOv4) [Tensorflow 2.0Repo](https://github.com/hunglc007/tensorflow-yolov4-tflite) [KerasRepo](https://github.com/Ma-Dan/keras-yolo4)
-
-
+7. YOLO Nano: a Highly Compact You Only Look Once Convolutional Neural Network for Object Detection [arxiv2019](https://arxiv.org/abs/1910.01271)
 
 ### Neural Architecture Search
 
@@ -213,6 +224,7 @@
 9. [Semantic Segmentation](https://zhangbin0917.github.io/2018/09/18/Semantic-Segmentation/)
 10. [Image segmentation in 2020: Architectures, Losses, Datasets, and Frameworks](https://neptune.ai/blog/image-segmentation-in-2020)
 11. [New mobile neural network architectures](https://machinethink.net/blog/mobile-architectures/)
+12. [NanoDet](https://zhuanlan.zhihu.com/p/306530300)
 
 
 
@@ -230,8 +242,6 @@
 10. [fast semantic segmentation models on CityScapes/Camvid DataSet by Pytorch](https://github.com/lxtGH/Fast_Seg) 
 11. [A semantic segmentation framework by pyotrch](https://github.com/Media-Smart/vedaseg)
 12. [PyTorch for Semantic Segmentation](https://github.com/LikeLy-Journey/SegmenTron)
-
-
 
 
 
