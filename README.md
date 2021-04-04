@@ -28,6 +28,7 @@
 5. FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions [CVPR2020](https://128.84.21.199/pdf/2004.05565.pdf) [FBNetv2](https://github.com/facebookresearch/mobile-vision)
 6. FBNetV3: Joint Architecture-Recipe Search using Neural Acquisition Function [arxiv2020](https://arxiv.org/pdf/2006.02049.pdf)
 7. FP-NAS: Fast Probabilistic Neural Architecture Search [arxiv2020](https://arxiv.org/abs/2011.10949)
+8. Fast and Accurate Model Scaling [arxiv2021](https://arxiv.org/abs/2103.06877)
 
 ### Megvill
 
@@ -137,6 +138,9 @@
 69. Is a Green Screen Really Necessary for Real-Time Portrait Matting? [arxiv2020](https://arxiv.org/abs/2011.11961) [MODNet](https://github.com/ZHKKKe/MODNet) *City University of Hong Kong, SenseTime Research*
 70. HyperSeg: Patch-wise Hypernetwork for Real-time Semantic Segmentation [arxiv2020](https://arxiv.org/abs/2012.11582) *Facebook AI, Tel Aviv University*
 71. Boundary-Aware Segmentation Network for Mobile and Web Applications [submitted to TPAMI](https://arxiv.org/abs/2101.04704) [BASNet](https://github.com/NathanUA/BASNet)
+72. EADNet: Efficient Asymmetric Dilated Network for Semantic Segmentation [arxiv2021](https://arxiv.org/abs/2103.08914) *Fudan University , etc.*
+73. AttaNet: Attention-Augmented Network for Fast and Accurate Scene Parsing [AAAI2021](https://arxiv.org/abs/2103.05930)
+74. Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Road Scenes [arxiv2021](https://arxiv.org/abs/2101.06085)
 
 ### Instance Segmentation
 
