@@ -10,6 +10,7 @@
 6. Searching for MobileNetV3 [MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf) **unofficial implementation** [MobileNetV3-for-Segmentation](https://github.com/Vipermdl/MobileNetV3-for-Segmentation) [official TF Repo](https://github.com/tensorflow/models/tree/master/research/object_detection)
 7. Efficient Net: Rethinking Model Scaling for Convolutional Neural Networks. [ICML 2019](https://arxiv.org/pdf/1905.11946.pdf) [tfcode](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet) [unofficial pytorch version](https://github.com/zsef123/EfficientNets-PyTorch)
 8. MixNet: Mixed Depthwise Convolutional Kernels [BMVC2019](https://arxiv.org/pdf/1907.09595.pdf) [Official TF Repo](https://github.com/tensorflow/tpu/tree/master/models/official/mnasnet/mixnet) [Unofficial pytporch](https://github.com/zsef123/MixNet-PyTorch)
+9. EfficientNetV2: Smaller Models and Faster Training [arxiv2021](https://arxiv.org/abs/2104.00298) [EfficientNetV2](https://github.com/google/automl/efficientnetv2)
 
 ### Microsoft Research
 
