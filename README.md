@@ -42,29 +42,32 @@
 ### Others
 
 1. CondenseNet: An Efficient DenseNet using Learned Group Convolutions [CondenseNet](https://arxiv.org/abs/1711.09224)
+2. CondenseNet V2: Sparse Feature Reactivation for Deep Networks [CondenseNetV2](https://github.com/jianghaojun/CondenseNetV2)
 3. ANTNets: Mobile Convolutional Neural Networks for Resource Efficient Image Classification [arxiv2019](https://arxiv.org/pdf/1904.03775.pdf)
 4. Seesaw-Net: Convolution Neural Network With Uneven Group Convolution [arxiv2019](https://arxiv.org/pdf/1905.03672.pdf)
-4. ISBNet: Instance-aware Selective Branching Network [arxiv2019](https://arxiv.org/pdf/1905.04849.pdf)
-5. Multinomial Distribution Learning for Effective Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1905.07529.pdf)  [code](https://github.com/tanglang96/MDENAS)
-6. HGC: Hierarchical Group Convolution for Highcdly Efficient Neural Network [arxiv2019](https://128.84.21.199/pdf/1906.03657.pdf)
-7. DiCENet: Dimension-wise Convolutions for Efficient Networks [arxiv2019](https://arxiv.org/pdf/1906.03516.pdf) [code](https://github.com/sacmehta/EdgeNets)
-8. Densely Connected Search Space for More Flexible Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1906.09607.pdf) [code](https://github.com/JaminFong/DenseNAS)
-9. VarGNet: Variable Group Convolutional Neural Network for Efficient Embedded Computing [arxiv2019](https://arxiv.org/pdf/1907.05653.pdf)     *Horizon Robotics* 
-10. VarGFaceNet: An Efficient Variable Group Convolutional Neural Network for Lightweight Face Recognition [VarGFaceNet](http://openaccess.thecvf.com/content_ICCVW_2019/papers/LSR/Yan_VarGFaceNet_An_Efficient_Variable_Group_Convolutional_Neural_Network_for_Lightweight_ICCVW_2019_paper.pdf)  [code](https://github.com/zma-c-137/VarGFaceNet) *Horizon Robotics*  (1st place in The Lightweight Face Recognition Challenge & Workshop ICCV 2019)
-11. Once for All: Train One Network and Specialize it for Efficient Deployment [ICLR 2020](https://arxiv.org/pdf/1908.09791.pdf) [ofaNet](https://github.com/mit-han-lab/once-for-all) *MIT && MIT-IBM Watson AI Lab*
-12. LPRNet: Lightweight Deep Network by Low-rank Pointwise Residual Convolution [arxiv2019](https://arxiv.org/pdf/1910.11853.pdf)
-13. LeanConvNets: Low-cost Yet Effective Convolutional Neural Networks [arxiv2019](https://arxiv.org/pdf/1910.13157v1.pdf)  *Ben-Gurion University&&Emory Universit*
-14. DeepSquare: Boosting the Learning Power of Deep Convolutional Neural Networks with Elementwise Square Operators [arxiv2019](https://arxiv.org/pdf/1906.04979.pdf) *ByteDance AI Lab*
-15. ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks [arxiv2019](https://arxiv.org/pdf/1910.03151.pdf) [code](https://github.com/BangguWu/ECANet) *Tianjin University* 
-16. XSepConv: Extremely Separated Convolution [arxiv2020](https://arxiv.org/pdf/2002.12046.pdf) *Tsinghua University &&University College London*
-17. GhostNet: More Features from Cheap Operations [CVPR2020 ](https://arxiv.org/abs/1911.11907) [TF Repo](https://github.com/huawei-noah/ghostnet) *Huawei Noah’s Ark Lab&&Peking University&&Sydney University*
-18. Resolution Adaptive Networks for Efficient Inference [CVPR2020](https://arxiv.org/pdf/2003.07326.pdf) [RANet](https://github.com/yangle15/RANet-pytorch/blob/master/models/RANet.py) *Tsinghua && HIT &&SenseTime*
-19. TResNet: High Performance GPU-Dedicated Architecture [arxiv2020](https://arxiv.org/pdf/2003.13630.pdf) [TResNet](https://github.com/mrT23/TResNet) *DAMO Academy, Alibaba Group*
-20.  Neural Architecture Design for GPU-Efficient Networks [arxiv2020](https://arxiv.org/pdf/2006.14090.pdf) *Alibaba Group*
-21. ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network [arxiv2020](https://arxiv.org/pdf/2007.00992) [rexnet](https://github.com/clovaai/rexnet) *Clova AI Research, NAVER Corp*
-22. Rethinking Bottleneck Structure for Efficient Mobile Network Design [ECCV2020](https://arxiv.org/pdf/2007.02269) [MobileNeXt](https://github.com/RangiLyu/mobilenext) [yitu-opensource](https://github.com/yitu-opensource/MobileNeXt)
-23. Model Rubik’s Cube: Twisting Resolution, Depth and Width for TinyNets [NeurIPS 2020](https://arxiv.org/abs/2010.14819)**
-24. MicroNet: Towards Image Recognition with Extremely Low FLOPs [arxiv2020](https://arxiv.org/abs/2011.12289v1) *UC San Diego && Microsoft*
+5. ISBNet: Instance-aware Selective Branching Network [arxiv2019](https://arxiv.org/pdf/1905.04849.pdf)
+6. Multinomial Distribution Learning for Effective Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1905.07529.pdf)  [code](https://github.com/tanglang96/MDENAS)
+7. HGC: Hierarchical Group Convolution for Highcdly Efficient Neural Network [arxiv2019](https://128.84.21.199/pdf/1906.03657.pdf)
+8. DiCENet: Dimension-wise Convolutions for Efficient Networks [arxiv2019](https://arxiv.org/pdf/1906.03516.pdf) [code](https://github.com/sacmehta/EdgeNets)
+9. Densely Connected Search Space for More Flexible Neural Architecture Search [arxiv2019](https://arxiv.org/pdf/1906.09607.pdf) [code](https://github.com/JaminFong/DenseNAS)
+10. VarGNet: Variable Group Convolutional Neural Network for Efficient Embedded Computing [arxiv2019](https://arxiv.org/pdf/1907.05653.pdf)     *Horizon Robotics* 
+11. VarGFaceNet: An Efficient Variable Group Convolutional Neural Network for Lightweight Face Recognition [VarGFaceNet](http://openaccess.thecvf.com/content_ICCVW_2019/papers/LSR/Yan_VarGFaceNet_An_Efficient_Variable_Group_Convolutional_Neural_Network_for_Lightweight_ICCVW_2019_paper.pdf)  [code](https://github.com/zma-c-137/VarGFaceNet) *Horizon Robotics*  (1st place in The Lightweight Face Recognition Challenge & Workshop ICCV 2019)
+12. Once for All: Train One Network and Specialize it for Efficient Deployment [ICLR 2020](https://arxiv.org/pdf/1908.09791.pdf) [ofaNet](https://github.com/mit-han-lab/once-for-all) *MIT && MIT-IBM Watson AI Lab*
+13. LPRNet: Lightweight Deep Network by Low-rank Pointwise Residual Convolution [arxiv2019](https://arxiv.org/pdf/1910.11853.pdf)
+14. LeanConvNets: Low-cost Yet Effective Convolutional Neural Networks [arxiv2019](https://arxiv.org/pdf/1910.13157v1.pdf)  *Ben-Gurion University&&Emory Universit*
+15. DeepSquare: Boosting the Learning Power of Deep Convolutional Neural Networks with Elementwise Square Operators [arxiv2019](https://arxiv.org/pdf/1906.04979.pdf) *ByteDance AI Lab*
+16. ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks [arxiv2019](https://arxiv.org/pdf/1910.03151.pdf) [code](https://github.com/BangguWu/ECANet) *Tianjin University* 
+17. XSepConv: Extremely Separated Convolution [arxiv2020](https://arxiv.org/pdf/2002.12046.pdf) *Tsinghua University &&University College London*
+18. GhostNet: More Features from Cheap Operations [CVPR2020 ](https://arxiv.org/abs/1911.11907) [TF Repo](https://github.com/huawei-noah/ghostnet) *Huawei Noah’s Ark Lab&&Peking University&&Sydney University*
+19. Resolution Adaptive Networks for Efficient Inference [CVPR2020](https://arxiv.org/pdf/2003.07326.pdf) [RANet](https://github.com/yangle15/RANet-pytorch/blob/master/models/RANet.py) *Tsinghua && HIT &&SenseTime*
+20. TResNet: High Performance GPU-Dedicated Architecture [arxiv2020](https://arxiv.org/pdf/2003.13630.pdf) [TResNet](https://github.com/mrT23/TResNet) *DAMO Academy, Alibaba Group*
+21. Neural Architecture Design for GPU-Efficient Networks [arxiv2020](https://arxiv.org/pdf/2006.14090.pdf) *Alibaba Group*
+22. ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network [arxiv2020](https://arxiv.org/pdf/2007.00992) [rexnet](https://github.com/clovaai/rexnet) *Clova AI Research, NAVER Corp*
+23. Rethinking Bottleneck Structure for Efficient Mobile Network Design [ECCV2020](https://arxiv.org/pdf/2007.02269) [MobileNeXt](https://github.com/RangiLyu/mobilenext) [yitu-opensource](https://github.com/yitu-opensource/MobileNeXt)
+24. Model Rubik’s Cube: Twisting Resolution, Depth and Width for TinyNets [NeurIPS 2020](https://arxiv.org/abs/2010.14819)**
+25. MicroNet: Towards Image Recognition with Extremely Low FLOPs [arxiv2020](https://arxiv.org/abs/2011.12289v1) *UC San Diego && Microsoft*
+26. Lite-HRNet: A Lightweight High-Resolution Network [cvpr2021](https://arxiv.org/abs/2104.06403) [Lite-HRNet](https://github.com/HRNet/Lite-HRNet) 
+27. AsymmNet: Towards ultralight convolution neural networks using asymmetrical bottlenecks [MAI@CVPR 2021](https://arxiv.org/abs/2104.07770) [AsymmNet](https://github.com/Spark001/AsymmNet)
 
 ### Semantic segmentation
 
@@ -189,6 +192,11 @@
 15. AtomNAS: Fine-Grained End-to-End Neural Architecture Search [ICIR2020](https://openreview.net/pdf?id=BylQSxHFwr) [AutoNAS](https://github.com/meijieru/AtomNAS) *Johns Hopkins University && ByteDance AI Lab*
 16. EcoNAS: Finding Proxies for Economical Neural Architecture Search [arxiv2020](https://arxiv.org/pdf/2001.01233.pdf) *The University of Sydney &&Nanyang Technological University&&SenseTime Research*
 17. MixPath: A Unified Approach for One-shot Neural Architecture Search [arxiv2020](https://arxiv.org/pdf/2001.05887.pdf) [MixPath](https://github.com/xiaomi-automl/MixPath) *Xiaomi AI Lab &&UCAS*
+
+### Transformer
+
+1. Efficient Transformers: A Survey  [arxiv2020](https://arxiv.org/abs/2009.06732v1)
+2. Escaping the Big Data Paradigm with Compact Transformers [arxiv2021](https://arxiv.org/pdf/2104.05704.pdf) [compact- transformer](https://arxiv.org/pdf/2104.05704.pdf)
 
 
 
