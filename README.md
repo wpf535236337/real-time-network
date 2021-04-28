@@ -198,6 +198,17 @@
 1. Efficient Transformers: A Survey  [arxiv2020](https://arxiv.org/abs/2009.06732v1)
 2. Escaping the Big Data Paradigm with Compact Transformers [arxiv2021](https://arxiv.org/pdf/2104.05704.pdf) [compact- transformer](https://arxiv.org/pdf/2104.05704.pdf)
 
+#### Tricks for training for Transformer
+
+1. Training data-efficient image transformers & distillation through attention [arxiv2021](https://arxiv.org/abs/2012.12877) [DEIT](https://github.com/facebookresearch/deit)
+2. Token Labeling: Training a 85.5% Top-1 Accuracy Vision Transformer
+   with 56M Parameters on ImageNet [arxiv2021](https://arxiv.org/abs/2104.10858) [TokenLabeling](https://github.com/zihangJiang/TokenLabeling)
+3.  Improve Vision Transformers Training by Suppressing Over-smoothing [arxiv2021](https://arxiv.org/abs/2104.12753) [PatchVisionTransformer](https://github.com/ChengyueGongR/PatchVisionTransformer)
+
+
+
+
+
 
 
 ### Tricks for training neural network
