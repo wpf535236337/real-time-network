@@ -145,6 +145,7 @@
 72. EADNet: Efficient Asymmetric Dilated Network for Semantic Segmentation [arxiv2021](https://arxiv.org/abs/2103.08914) *Fudan University , etc.*
 73. AttaNet: Attention-Augmented Network for Fast and Accurate Scene Parsing [AAAI2021](https://arxiv.org/abs/2103.05930)
 74. Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Road Scenes [arxiv2021](https://arxiv.org/abs/2101.06085)
+75.  Rethinking BiSeNet For Real-time Semantic Segmentation [CVPR2021](https://arxiv.org/abs/2104.13188) [STDC-Seg](https://github.com/MichaelFan01/STDC-Seg)
 
 ### Instance Segmentation
 
@@ -204,12 +205,7 @@
 2. Token Labeling: Training a 85.5% Top-1 Accuracy Vision Transformer
    with 56M Parameters on ImageNet [arxiv2021](https://arxiv.org/abs/2104.10858) [TokenLabeling](https://github.com/zihangJiang/TokenLabeling)
 3.  Improve Vision Transformers Training by Suppressing Over-smoothing [arxiv2021](https://arxiv.org/abs/2104.12753) [PatchVisionTransformer](https://github.com/ChengyueGongR/PatchVisionTransformer)
-
-
-
-
-
-
+4. 
 
 ### Tricks for training neural network
 
