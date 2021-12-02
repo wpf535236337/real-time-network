@@ -261,6 +261,8 @@
 10. [fast semantic segmentation models on CityScapes/Camvid DataSet by Pytorch](https://github.com/lxtGH/Fast_Seg) 
 11. [A semantic segmentation framework by pyotrch](https://github.com/Media-Smart/vedaseg)
 12. [PyTorch for Semantic Segmentation](https://github.com/LikeLy-Journey/SegmenTron)
+13. [murufeng/awesome_lightweight_networks](https://github.com/murufeng/awesome_lightweight_networks)
+
 
 
 
