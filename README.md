@@ -30,6 +30,7 @@
 6. FBNetV3: Joint Architecture-Recipe Search using Neural Acquisition Function [arxiv2020](https://arxiv.org/pdf/2006.02049.pdf)
 7. FP-NAS: Fast Probabilistic Neural Architecture Search [arxiv2020](https://arxiv.org/abs/2011.10949)
 8. Fast and Accurate Model Scaling [arxiv2021](https://arxiv.org/abs/2103.06877)
+9. Mobile Computer Vision @ Facebook [mobile-vision](https://github.com/facebookresearch/mobile-vision)
 
 ### Megvill
 
@@ -262,6 +263,7 @@
 11. [A semantic segmentation framework by pyotrch](https://github.com/Media-Smart/vedaseg)
 12. [PyTorch for Semantic Segmentation](https://github.com/LikeLy-Journey/SegmenTron)
 13. [murufeng/awesome_lightweight_networks](https://github.com/murufeng/awesome_lightweight_networks)
+14. [sithu31296/semantic-segmentation](https://github.com/sithu31296/semantic-segmentation)
 
 
 
