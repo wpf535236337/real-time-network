@@ -147,6 +147,8 @@
 73. AttaNet: Attention-Augmented Network for Fast and Accurate Scene Parsing [AAAI2021](https://arxiv.org/abs/2103.05930)
 74. Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Road Scenes [arxiv2021](https://arxiv.org/abs/2101.06085)
 75.  Rethinking BiSeNet For Real-time Semantic Segmentation [CVPR2021](https://arxiv.org/abs/2104.13188) [STDC-Seg](https://github.com/MichaelFan01/STDC-Seg)
+76.  TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation [CVPR2022](https://arxiv.org/abs/2204.05525) [code](https://github.com/hustvl/TopFormer)
+77.  
 
 ### Instance Segmentation
 
@@ -199,6 +201,11 @@
 
 1. Efficient Transformers: A Survey  [arxiv2020](https://arxiv.org/abs/2009.06732v1)
 2. Escaping the Big Data Paradigm with Compact Transformers [arxiv2021](https://arxiv.org/pdf/2104.05704.pdf) [compact- transformer](https://arxiv.org/pdf/2104.05704.pdf)
+3. EdgeViTs: Competing Light-weight CNNs on Mobile Devices with Vision Transformers [arxiv2022](https://arxiv.org/abs/2205.03436)
+4. MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer [ICLR2022](https://arxiv.org/abs/2110.02178)[code](https://github.com/apple/ml-cvnets)
+5. EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers [arxiv2022](https://arxiv.org/abs/2203.03952) [code](https://github.com/hkzhang91/EdgeFormer)
+6. SepViT: Separable Vision Transformer [arxiv2022](https://arxiv.org/abs/2203.15380)
+7. 
 
 #### Tricks for training for Transformer
 
