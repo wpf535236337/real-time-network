@@ -205,7 +205,7 @@
 4. MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer [ICLR2022](https://arxiv.org/abs/2110.02178)[code](https://github.com/apple/ml-cvnets)
 5. EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers [arxiv2022](https://arxiv.org/abs/2203.03952) [code](https://github.com/hkzhang91/EdgeFormer)
 6. SepViT: Separable Vision Transformer [arxiv2022](https://arxiv.org/abs/2203.15380)
-7. 
+7. MoCoViT: Mobile Convolutional Vision Transformer [arxiv2022](https://arxiv.org/abs/2205.12635)
 
 #### Tricks for training for Transformer
 
