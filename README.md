@@ -32,6 +32,10 @@
 8. Fast and Accurate Model Scaling [arxiv2021](https://arxiv.org/abs/2103.06877)
 9. Mobile Computer Vision @ Facebook [mobile-vision](https://github.com/facebookresearch/mobile-vision)
 
+
+### Apple
+1. CVNets: High Performance Library for Computer Vision [Technical report 4 Jun 2022](https://arxiv.org/abs/2206.02002) [ml-cvnets](https://github.com/apple/ml-cvnets)
+
 ### Megvill
 
 1. ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices [ShuffleNet](https://arxiv.org/abs/1707.01083)
