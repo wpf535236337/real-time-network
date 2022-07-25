@@ -210,6 +210,9 @@
 5. EdgeFormer: Improving Light-weight ConvNets by Learning from Vision Transformers [arxiv2022](https://arxiv.org/abs/2203.03952) [code](https://github.com/hkzhang91/EdgeFormer)
 6. SepViT: Separable Vision Transformer [arxiv2022](https://arxiv.org/abs/2203.15380)
 7. MoCoViT: Mobile Convolutional Vision Transformer [arxiv2022](https://arxiv.org/abs/2205.12635)
+8. Lightweight Vision Transformer with Cross Feature Attention[Technical Report](https://arxiv.org/abs/2207.07268)
+9. Next-ViT: Next Generation Vision Transformer for Efficient Deployment in Realistic Industrial Scenarios [arxiv2022](https://arxiv.org/abs/2207.05501)
+
 
 #### Tricks for training for Transformer
 
